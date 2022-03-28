@@ -1,0 +1,967 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Estatik Native\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2019-11-22 21:11+0000\n"
+"PO-Revision-Date: 2019-11-25 19:57+0000\n"
+"Last-Translator: admin <admin@native3.estatik.net>\n"
+"Language-Team: Hungarian\n"
+"Language: hu_HU\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.3.1; wp-5.2.4"
+
+#: templates/content-archive.php:42 templates/content-archive.php:77
+msgid " photos"
+msgstr ""
+"fotók\n"
+
+#: inc/widgets/forms/es-nav-menu-widget-form.php:38
+msgid "&mdash; Select &mdash;"
+msgstr "- Válasszon -"
+
+#: inc/widgets/forms/es-native-recent-posts-widget-form.php:29
+msgid "-- Select category --"
+msgstr ""
+"-- Válassz kategóriát --\n"
+
+#: inc/admin/templates/general-tab.php:9
+msgid "-- Select page --"
+msgstr ""
+"-- Válasszon oldalt --\n"
+
+#: inc/widgets/forms/es-properties-widget-form.php:26
+msgid "-- Select parameters for filtering --"
+msgstr ""
+"-- Válasszon paramétereket a szűréshez --\n"
+
+#: inc/admin/templates/404.php:33
+msgid "404 Button label"
+msgstr ""
+"404 Gombcímke\n"
+
+#: inc/class-options-container.php:136
+msgid "404 Error"
+msgstr ""
+"404 Hiba\n"
+
+#: inc/admin/class-options-page.php:82 inc/widgets/class-native-widget.php:53
+msgid "404 Page"
+msgstr ""
+"404 oldal\n"
+
+#: inc/admin/templates/404.php:25
+msgid "404 Page text"
+msgstr ""
+"404 oldalszöveg\n"
+
+#: inc/admin/templates/404.php:20
+msgid "404 Page title"
+msgstr "404 oldal címe"
+
+#: inc/class-native-theme.php:364
+msgid "Account Menu"
+msgstr ""
+"Fiók menü\n"
+
+#: inc/class-native-theme.php:381
+msgid "Add New News"
+msgstr "Új hírek hozzáadása"
+
+#: inc/class-native-theme.php:594
+msgid "Add widgets above the content after title."
+msgstr ""
+"Adjon hozzá widgeteket a cím után a tartalom fölé.\n"
+
+#: inc/class-native-theme.php:612
+msgid "Add widgets above the content on full window width."
+msgstr ""
+"Adjon hozzá widgeteket a tartalom fölé a teljes ablak szélességén.\n"
+
+#: inc/class-native-theme.php:603
+msgid "Add widgets above the content."
+msgstr ""
+"Adjon hozzá widgeteket a tartalom fölé.\n"
+
+#: inc/class-native-theme.php:585
+msgid "Add widgets at the right or left side on the properties."
+msgstr ""
+"Adjon hozzá widgeteket a tulajdonságok jobb vagy bal oldalához.\n"
+
+#: inc/class-native-theme.php:567
+msgid "Add widgets at the right side on the content"
+msgstr ""
+"Adjon hozzá widgeteket a tartalom jobb oldalához\n"
+
+#: inc/class-native-theme.php:576
+msgid "Add widgets at the right side on the pages."
+msgstr "Adjon hozzá kütyüket az oldalak jobb oldalához."
+
+#: inc/class-native-theme.php:621
+msgid ""
+"Add widgets at the top of page with template Page with top Estatik search."
+msgstr ""
+"Adjon hozzá widget-eket az oldal tetejére, sablonnal, az Estatik felső "
+"keresésével.\n"
+
+#: inc/class-native-theme.php:639
+msgid "Add widgets below the content in color section."
+msgstr ""
+"Adjon hozzá widgeteket a színes rész tartalma alá.\n"
+
+#: inc/class-native-theme.php:630
+msgid "Add widgets below the content."
+msgstr "Adjon hozzá widgeteket a tartalom alá."
+
+#: inc/class-native-theme.php:199
+msgid ""
+"After you import this demo, you will have to setup the revolution slider "
+"separately and add MailChimp settings."
+msgstr ""
+"Après avoir importé cette démonstration, vous devrez configurer le curseur "
+"de révolution séparément et ajouter les paramètres MailChimp."
+
+#: inc/class-native-theme.php:384
+msgid "All News"
+msgstr ""
+"Minden hír\n"
+
+#: inc/widgets/class-native-widget.php:124
+msgid "All pages"
+msgstr ""
+"Az összes oldal\n"
+
+#: inc/widgets/forms/es-native-recent-posts-widget-form.php:24
+#: inc/widgets/forms/es-native-latest-news-widget-form.php:26
+msgid "Amount of News:"
+msgstr ""
+"Hírek száma:\n"
+
+#: inc/widgets/forms/es-properties-widget-form.php:22
+msgid "Amount of properties:"
+msgstr ""
+"Ingatlanok száma:\n"
+
+#: inc/widgets/class-native-widget.php:46
+msgid "Archive page"
+msgstr ""
+"Archívum oldal\n"
+
+#: inc/widgets/class-native-widget.php:49
+msgid "Archive Property Page"
+msgstr ""
+"Archívum tulajdonság oldala\n"
+
+#: inc/class-native-theme.php:727
+msgid "Archives"
+msgstr ""
+"Levéltár\n"
+
+#: inc/class-native-theme.php:794
+#, php-format
+msgid "Articles Posted by %s"
+msgstr "Cikkek: %s"
+
+#: inc/widgets/class-native-widget.php:52
+msgid "Author Page"
+msgstr ""
+"Szerző oldal\n"
+
+#: inc/widgets/forms/es-native-banners-widget-form.php:33
+msgid "Banner Link:"
+msgstr ""
+"Banner link:\n"
+
+#: inc/widgets/forms/es-native-banners-widget-form.php:41
+msgid "Banner Subtitle:"
+msgstr ""
+"Banner felirat:\n"
+
+#: inc/widgets/forms/es-native-banners-widget-form.php:37
+msgid "Banner Title:"
+msgstr ""
+"Szalaghirdetés címe:\n"
+
+#: inc/class-native-theme.php:637
+msgid "Bottom Color Wide Sidebar"
+msgstr ""
+"Alsó színű széles oldalsáv\n"
+
+#: inc/class-native-theme.php:628
+msgid "Bottom Wide Sidebar"
+msgstr ""
+"Alsó széles oldalsáv\n"
+
+#: inc/class-native-theme.php:413
+msgid "Button Label"
+msgstr ""
+"Gomb címke\n"
+
+#: inc/class-native-theme.php:429
+msgid "Button link label"
+msgstr ""
+"Gombos link címke\n"
+
+#: inc/widgets/class-native-widget.php:50
+msgid "Category Page"
+msgstr "Kategória oldal"
+
+#: comments.php:75
+msgid "Comments are closed."
+msgstr ""
+"Hozzászólások lezárva.\n"
+"Elérhetőségei\n"
+
+#. 1: number of comments, 2: post title
+#: comments.php:40
+#, php-format
+msgctxt "comments title"
+msgid "%1$s Reply to &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s Replies to &ldquo;%2$s&rdquo;"
+msgstr[0] "%1$s Válaszolni &ldquo;%2$s&rdquo;"
+msgstr[1] ""
+
+#. %s: post title
+#: comments.php:36
+#, php-format
+msgctxt "comments title"
+msgid "One Reply to &ldquo;%s&rdquo;"
+msgstr "Egy válasz &ldquo;%s&rdquo;"
+
+#: inc/admin/class-options-page.php:78
+msgid "Contact Info"
+msgstr "Elérhetőségei"
+
+#: inc/class-native-theme.php:565
+msgid "Content Sidebar Right"
+msgstr ""
+"Tartalom oldalsávja jobbra\n"
+
+#: inc/class-native-theme.php:592
+msgid "Content Top Sidebar"
+msgstr ""
+"Tartalom felső oldalsávja\n"
+
+#: templates/content-post-archive.php:40
+msgid "Continue reading"
+msgstr ""
+"Olvasson tovább\n"
+
+#: inc/admin/templates/general-tab.php:128
+msgid "Copyright"
+msgstr ""
+"Szerzői jog\n"
+
+#: inc/class-options-container.php:76
+msgid "Copyright 2017 Estatik. All rights reserved."
+msgstr ""
+"Copyright 2017 Estatik. Minden jog fenntartva.\n"
+
+#: inc/admin/templates/general-tab.php:109
+msgid "Custom CSS"
+msgstr ""
+"Egyéni CSS\n"
+
+#: templates/content-archive.php:26
+msgid "Details"
+msgstr "Részletek"
+
+#: inc/class-options-container.php:108
+msgid ""
+"Drop us a line or give us a ring. We love to hear about your experience. We "
+"are happy to answer any questions."
+msgstr ""
+"Dobj el egy sort vagy adjon nekünk egy gyűrűt. Szeretjük hallani a "
+"tapasztalatait. Örömmel válaszolunk minden kérdésre."
+
+#: inc/widgets/forms/es-nav-menu-widget-form.php:48
+msgid "Edit Menu"
+msgstr ""
+"Szerkesztés menü\n"
+
+#: inc/class-native-theme.php:382
+msgid "Edit News"
+msgstr ""
+"Hírek szerkesztése\n"
+
+#: inc/class-contact-form.php:102
+msgid "Email"
+msgstr ""
+"Email\n"
+
+#: inc/class-options-container.php:116
+msgid "Email Us"
+msgstr ""
+"Küldj egy emailt nekünk\n"
+
+#: searchform.php:3
+msgid "Enter key word"
+msgstr ""
+"Írja be a kulcsszót\n"
+
+#: estatik/shortcodes/reset.php:16
+msgid "Enter new password"
+msgstr ""
+"Adjon meg új jelszót\n"
+
+#: inc/class-native-theme.php:795
+msgid "Error 404"
+msgstr ""
+"404-es hibakód\n"
+
+#. Author of the theme
+msgid "Estatik"
+msgstr ""
+"Estatik\n"
+
+#: inc/class-native-theme.php:162
+msgid "Estatik Mortgage Calculator"
+msgstr "Estatik Mortgage Calculator"
+
+#. Name of the theme
+msgid "Estatik Native"
+msgstr "Estatik Native"
+
+#: inc/class-native-theme.php:156
+msgid "Estatik Real Estate"
+msgstr "Estatik Real Estate"
+
+#: inc/admin/templates/social-sharing.php:17
+msgid "Facebook link"
+msgstr ""
+"Facebook link\n"
+
+#: inc/admin/templates/general-tab.php:54
+msgid "Favicon"
+msgstr ""
+"Favicon\n"
+
+#: inc/admin/class-options-page.php:70
+msgid "General"
+msgstr ""
+"Tábornok\n"
+
+#: estatik/shortcodes/reset.php:31
+msgid "Get new password"
+msgstr ""
+"Kérjen új jelszót\n"
+
+#: inc/class-options-container.php:144
+msgid "Go to the Home page"
+msgstr ""
+"Lépjen a kezdőlapra\n"
+
+#: inc/admin/templates/social-sharing.php:22
+msgid "Google plus link"
+msgstr ""
+"Google plus link\n"
+
+#: inc/widgets/class-native-widget.php:126
+msgid "Hide on checked pages"
+msgstr ""
+"Elrejtés az ellenőrzött oldalakon\n"
+
+#: inc/class-native-theme.php:792
+msgid "Home"
+msgstr "Itthon"
+
+#: inc/widgets/class-native-widget.php:45
+msgid "Home page with latest posts"
+msgstr ""
+"Kezdőlap legújabb hozzászólásokkal\n"
+
+#. URI of the theme
+#. Author URI of the theme
+msgid "http://estatik.net/"
+msgstr ""
+"http://estatik.net/\n"
+
+#: templates/contact-form.php:37
+#, php-format
+msgid "I agree to the %s and %s"
+msgstr "Egyetértek a %s és %s feltételekkel"
+
+#: estatik/shortcodes/login.php:42
+msgid "I forgot my password"
+msgstr ""
+"elfelejtettem a jelszavamat\n"
+
+#: estatik/shortcodes/login.php:46
+msgid "I need to register for a new account"
+msgstr ""
+"Regisztrálnom kell egy új fiókot\n"
+
+#: inc/admin/class-options-page.php:146 inc/widgets/class-banners-widget.php:53
+msgid "Insert Image"
+msgstr "Kép beszúrása"
+
+#: inc/class-contact-form.php:84
+msgid "Invalid recaptcha."
+msgstr ""
+"Érvénytelen recaptcha.\n"
+
+#: inc/admin/templates/general-tab.php:72
+msgid "Is sticky header"
+msgstr ""
+"Ragadós fejléc\n"
+
+#: inc/widgets/forms/es-native-latest-news-widget-form.php:32
+msgid "Layout"
+msgstr ""
+"Elrendezés\n"
+
+#: inc/widgets/templates/es-native-page-teaser-widget.php:25
+msgid "Learn More"
+msgstr ""
+"Tudj meg többet\n"
+
+#: single-properties.php:29 single-properties.php:44
+msgid "Learn more about this property"
+msgstr ""
+"Tudjon meg többet erről a tulajdonságról\n"
+
+#: inc/class-options-container.php:149
+msgid "Left Sidebar"
+msgstr ""
+"Bal oldali sáv\n"
+
+#: inc/admin/templates/social-sharing.php:27
+msgid "LinkedIn link"
+msgstr ""
+"LinkedIn link\n"
+
+#: estatik/shortcodes/login.php:28
+msgid "Log in"
+msgstr "Belépés"
+
+#: estatik/shortcodes/login.php:4
+msgid "Log in into your account"
+msgstr ""
+"Connectez-vous à votre compte\n"
+
+#: inc/class-native-theme.php:365
+msgid "Login Menu"
+msgstr ""
+"Menu de connexion\n"
+
+#: inc/admin/templates/general-tab.php:23
+msgid "Logo"
+msgstr ""
+"Logo\n"
+
+#: inc/admin/templates/general-tab.php:48
+msgid "Logo Height"
+msgstr ""
+"Hauteur du logo\n"
+
+#: inc/admin/templates/general-tab.php:42
+msgid "Logo width"
+msgstr ""
+"Largeur du logo\n"
+
+#: estatik/shortcodes/login.php:55 estatik/shortcodes/reset.php:46
+msgid "Logout"
+msgstr "Connectez - Out"
+
+#: inc/class-native-theme.php:363
+msgid "Main Menu"
+msgstr ""
+"Főmenü\n"
+
+#: inc/admin/templates/general-tab.php:17
+msgid "Main Theme Color"
+msgstr ""
+"Fő téma színe\n"
+
+#: inc/class-contact-form.php:114
+msgid "Message didn't send. Please, contact the support."
+msgstr ""
+"Az üzenet nem lett elküldve. Kérjük, vegye fel a kapcsolatot az "
+"ügyfélszolgálattal.\n"
+
+#: inc/class-contact-form.php:101
+msgid "Name"
+msgstr ""
+"Név\n"
+
+#: inc/widgets/class-banners-widget.php:13
+msgid "Native Banners"
+msgstr ""
+"Natív bannerek\n"
+
+#: inc/widgets/class-nav-menu-widget.php:13
+msgid "Native Custom Menu"
+msgstr ""
+"Natív egyéni menü\n"
+
+#: inc/widgets/class-hot-property-widget.php:13
+msgid "Native Hot Property"
+msgstr "Natív forró ingatlan"
+
+#: inc/widgets/class-latest-news-widget.php:13
+msgid "Native Latest News"
+msgstr ""
+"Natív legfrissebb hírek\n"
+
+#: inc/widgets/class-page-teaser-widget.php:13
+msgid "Native Page Teaser"
+msgstr ""
+"Natív oldal teaser\n"
+
+#: inc/widgets/class-properties-widget.php:13
+msgid "Native Properties List"
+msgstr "Natív tulajdonságok listája"
+
+#: inc/widgets/class-recent-posts-widget.php:13
+msgid "Native Recent Posts"
+msgstr "Natív legutóbbi hozzászólások"
+
+#. Description of the theme
+msgid ""
+"Native Theme is a real estate theme built for Estatik Simple and Pro plugins."
+msgstr ""
+"A natív téma az Estatik Simple és Pro pluginshez épített ingatlan téma."
+
+#: inc/class-native-theme.php:383
+msgid "New News"
+msgstr ""
+"Új hírek\n"
+
+#: inc/class-native-theme.php:380
+msgctxt "News"
+msgid "Add New"
+msgstr "Új hozzáadása"
+
+#: inc/admin/templates/general-tab.php:114
+msgid "News per page"
+msgstr ""
+"Hírek oldalanként\n"
+" "
+
+#: comments.php:67
+msgid "Next"
+msgstr ""
+"Következő\n"
+
+#: inc/admin/class-options-page.php:190
+#: inc/widgets/forms/es-native-latest-news-widget-form.php:45
+msgid "No"
+msgstr ""
+"Nem\n"
+
+#: inc/class-native-theme.php:387
+msgid "No News found"
+msgstr ""
+"Nem található hír\n"
+
+#: inc/class-native-theme.php:388
+msgid "No News found in the Trash"
+msgstr "Nem található hír a kukában"
+
+#: estatik/archive-properties.php:26 templates/archive-properties.php:26
+msgid "Nothing to display."
+msgstr ""
+"Nincs megjelenítés.\n"
+
+#: inc/class-native-theme.php:167
+msgid "One Click Demo Import"
+msgstr "One Click Demo Import"
+
+#: inc/class-options-container.php:157
+msgid "Optional"
+msgstr ""
+"Választható\n"
+
+#: inc/class-options-container.php:124
+msgid "Our Address"
+msgstr ""
+"A címünk\n"
+
+#: inc/class-native-theme.php:901
+msgid "Page"
+msgstr ""
+"Oldal\n"
+
+#: inc/admin/templates/404.php:2
+msgid "Page 404 background image"
+msgstr ""
+"Page 404 háttérkép\n"
+
+#: inc/class-native-theme.php:574
+msgid "Page Sidebar Right"
+msgstr ""
+"Oldalsáv jobbra\n"
+
+#: estatik/shortcodes/login.php:23
+msgid "Password"
+msgstr ""
+"Jelszó\n"
+
+#: inc/class-contact-form.php:103
+msgid "Phone"
+msgstr ""
+"Telefon\n"
+
+#: inc/admin/templates/social-sharing.php:12
+msgid "Pinterest link"
+msgstr ""
+"Pinterest link\n"
+
+#: inc/class-contact-form.php:80
+msgid "Please fill required fields."
+msgstr ""
+"Töltse ki a kötelező mezőket.\n"
+
+#: inc/admin/templates/options.php:11
+msgid "Please fill up your Theme Options and click save to finish."
+msgstr ""
+"Kérjük, töltse ki a témabeállításokat, és kattintson a Mentés gombra a "
+"befejezéshez."
+
+#: inc/class-contact-form.php:88
+msgid "Please, agree terms & conditions and privacy policy."
+msgstr ""
+"S'il vous plaît, acceptez les termes et conditions et la politique de "
+"confidentialité.\n"
+
+#: inc/class-native-theme.php:378
+msgctxt "post type general name"
+msgid "News"
+msgstr "Hírek"
+
+#: inc/class-native-theme.php:379
+msgctxt "post type singular name"
+msgid "News"
+msgstr "Hírek"
+
+#: single.php:41 templates/content-post-archive.php:30
+msgid "Posted in"
+msgstr ""
+"Publié dans\n"
+
+#: search.php:33 comments.php:66 archive.php:33
+#: estatik/archive-properties.php:30 templates/archive-properties.php:30
+msgid "Previous"
+msgstr ""
+"Précédent\n"
+
+#: templates/contact-form.php:4
+msgid "Privacy Policy"
+msgstr ""
+"Politique de confidentialité\n"
+
+#: inc/admin/templates/general-tab.php:96
+msgid "Privacy Policy Checkbox"
+msgstr ""
+"Politique de confidentialité\n"
+
+#: inc/admin/templates/general-tab.php:104
+msgid "Privacy Policy page"
+msgstr ""
+"Politique de confidentialité\n"
+
+#: templates/subscriptions-table.php:43
+msgid "Proceed"
+msgstr ""
+"Procéder\n"
+
+#: estatik/archive-properties.php:12 templates/archive-properties.php:12
+msgid "Properties"
+msgstr "Propriétés"
+
+#: inc/class-native-theme.php:583
+msgid "Property Sidebar"
+msgstr ""
+"Ingatlan oldalsáv\n"
+
+#: inc/class-contact-form.php:104
+msgid "Questions"
+msgstr ""
+"Kérdések\n"
+
+#: inc/admin/class-options-page.php:147 inc/widgets/class-banners-widget.php:54
+msgid "Remove Image"
+msgstr ""
+"Kép eltávolítása\n"
+
+#: comments.php:60
+msgid "Reply"
+msgstr ""
+"Válasz\n"
+
+#: inc/class-options-container.php:156
+msgid "Required"
+msgstr ""
+"Kívánt\n"
+
+#: estatik/shortcodes/reset.php:6
+msgid "Restore password"
+msgstr ""
+"Jelszó visszaállítása\n"
+
+#: inc/class-options-container.php:150
+msgid "Right Sidebar"
+msgstr "Jobb oldalsáv"
+
+#: inc/admin/templates/options.php:12
+msgid "Save"
+msgstr ""
+"Mentés\n"
+
+#: searchform.php:4
+msgid "Search"
+msgstr ""
+"Keresés\n"
+
+#: inc/admin/templates/general-tab.php:78
+msgid "Search block background image"
+msgstr ""
+"Keresési blokk háttérkép keresése\n"
+
+#: inc/class-native-theme.php:386
+msgid "Search News"
+msgstr ""
+"Keresési hírek\n"
+
+#: inc/widgets/class-native-widget.php:51
+msgid "Search Page"
+msgstr ""
+"Keresési oldal\n"
+
+#: templates/search-properties.php:3
+msgid "Search properties"
+msgstr ""
+"Keresési tulajdonságok\n"
+
+#: inc/class-native-theme.php:793
+#, php-format
+msgid "Search Results for \"%s\" Query"
+msgstr ""
+"Keresési eredmények a (z) \"%s\" lekérdezéshez\n"
+
+#: search.php:23
+#, php-format
+msgid "Search Results for: %s"
+msgstr "Keresési eredmények ehhez: %s"
+
+#: inc/admin/class-options-page.php:145 inc/widgets/class-banners-widget.php:52
+#: inc/widgets/forms/es-native-banners-widget-form.php:20
+msgid "Select Image"
+msgstr ""
+"Válassza a Kép lehetőséget\n"
+
+#: inc/admin/templates/general-tab.php:27
+#: inc/admin/templates/general-tab.php:58
+#: inc/admin/templates/general-tab.php:82 inc/admin/templates/404.php:6
+msgid "Select image"
+msgstr ""
+"Válassza ki a képet\n"
+
+#: inc/widgets/forms/es-nav-menu-widget-form.php:36
+msgid "Select Menu:"
+msgstr ""
+"Válassza a Menü lehetőséget:\n"
+
+#: inc/widgets/forms/es-native-page-teaser-widget-form.php:21
+msgid "Select page"
+msgstr ""
+"Válassza ki az oldalt\n"
+
+#: inc/widgets/class-native-widget.php:96
+msgid "Select pages"
+msgstr ""
+"Válasszon oldalakat\n"
+
+#: inc/widgets/forms/es-native-hot-property-widget-form.php:21
+msgid "Select property"
+msgstr ""
+"Válassza ki a tulajdonságot\n"
+
+#: templates/contact-form.php:52
+msgid "Send"
+msgstr ""
+"Elküld\n"
+
+#: inc/admin/templates/general-tab.php:119
+msgid "Show breadcrumbs"
+msgstr ""
+"Mutasson zsemlemorzsát\n"
+
+#: inc/widgets/forms/es-native-latest-news-widget-form.php:41
+msgid "Show more button"
+msgstr ""
+"További gomb megjelenítése\n"
+
+#: inc/widgets/class-native-widget.php:125
+msgid "Show on checked pages"
+msgstr ""
+"Megjelenítés az ellenőrzött oldalakon\n"
+
+#: inc/widgets/class-native-widget.php:81
+msgid "Show on pages:"
+msgstr ""
+"Megjelenítés az oldalakon:\n"
+
+#: inc/widgets/class-native-widget.php:47
+msgid "Single Page"
+msgstr "Egyetlen oldal"
+
+#: inc/admin/templates/general-tab.php:124
+msgid "Single Property Layout"
+msgstr ""
+"Egyetlen ingatlan elrendezése\n"
+
+#: inc/widgets/class-native-widget.php:48
+msgid "Single Property Page"
+msgstr ""
+"Egyetlen ingatlan oldal\n"
+
+#: inc/admin/class-options-page.php:74
+msgid "Social Sharing"
+msgstr ""
+"Közösségi megosztás\n"
+
+#: search.php:41 archive.php:41
+msgid "Sorry, nothing found"
+msgstr ""
+"Sajnálom, semmi sem található\n"
+
+#: inc/admin/templates/contact.php:10
+msgid "Tel Number"
+msgstr ""
+"Telefonszám\n"
+
+#: templates/contact-form.php:3
+msgid "Terms of Use"
+msgstr ""
+"Használati feltételek\n"
+
+#: inc/admin/templates/general-tab.php:100
+msgid "Terms of Use page"
+msgstr ""
+"Használati feltételek oldal\n"
+
+#: inc/class-contact-form.php:111
+msgid "Thank you for contacting us!"
+msgstr ""
+"Köszönjük, hogy kapcsolatba lépett velünk!\n"
+
+#: inc/admin/class-options-page.php:48
+msgid "Theme Native"
+msgstr ""
+"Téma natív\n"
+
+#: inc/admin/templates/options.php:6
+msgid "Theme Options"
+msgstr "Téma beállítások"
+
+#: inc/widgets/forms/es-nav-menu-widget-form.php:32
+msgid "Title:"
+msgstr ""
+"Cím:\n"
+
+#: inc/class-native-theme.php:619
+msgid "Top Banner Sidebar"
+msgstr ""
+"Felső szalaghirdetés-oldalsáv\n"
+
+#: inc/class-native-theme.php:601
+msgid "Top Sidebar"
+msgstr ""
+"Felső oldalsáv\n"
+
+#: inc/class-native-theme.php:610
+msgid "Top Wide Sidebar"
+msgstr ""
+"Legszélesebb oldalsáv\n"
+
+#: templates/subscriptions-table.php:42
+msgid "Total"
+msgstr ""
+"Teljes\n"
+
+#: inc/admin/templates/social-sharing.php:2
+msgid "Twitter link"
+msgstr ""
+"Twitter link\n"
+
+#: inc/admin/templates/contact.php:2
+msgid "User notification text"
+msgstr ""
+"Felhasználói értesítés szövege\n"
+
+#: estatik/shortcodes/login.php:15
+msgid "Username"
+msgstr ""
+"Felhasználónév\n"
+
+#: estatik/shortcodes/reset.php:19
+msgid "Username or email address"
+msgstr ""
+"Felhasználónév vagy E-mail cím\n"
+
+#: inc/class-native-theme.php:678
+msgid "Ver"
+msgstr ""
+"Ver\n"
+
+#: inc/widgets/forms/es-native-latest-news-widget-form.php:51
+msgid "View all link:"
+msgstr ""
+"Összes link megtekintése:\n"
+
+#: inc/class-native-theme.php:385
+msgid "View News"
+msgstr ""
+"Hírek megtekintése\n"
+
+#: templates/content-archive.php:21
+msgid "View on map"
+msgstr ""
+"Megtekintés a térképen\n"
+
+#: inc/widgets/forms/es-native-hot-property-widget-form.php:16
+#: inc/widgets/forms/es-properties-widget-form.php:18
+#: inc/widgets/forms/es-native-page-teaser-widget-form.php:16
+#: inc/widgets/forms/es-native-recent-posts-widget-form.php:18
+#: inc/widgets/forms/es-native-latest-news-widget-form.php:20
+msgid "Widget Title:"
+msgstr "Widget címe:"
+
+#: inc/admin/class-options-page.php:189
+#: inc/widgets/forms/es-native-latest-news-widget-form.php:42
+msgid "Yes"
+msgstr ""
+"Igen\n"
+
+#: estatik/shortcodes/login.php:53 estatik/shortcodes/reset.php:44
+msgid "You are already logged in."
+msgstr ""
+"Ön már bejelentkezett.\n"
+
+#: templates/contact-form.php:21
+msgid "Your email"
+msgstr ""
+"Az email címed\n"
+
+#: templates/contact-form.php:17
+msgid "Your name"
+msgstr ""
+"A neved\n"
+
+#: templates/contact-form.php:25
+msgid "Your phone"
+msgstr ""
+"Telefonod\n"
+
+#: templates/contact-form.php:29
+msgid "Your Questions"
+msgstr ""
+"Kérdéseid\n"
+
+#: inc/admin/templates/social-sharing.php:7
+msgid "Youtube link"
+msgstr "Youtube link"

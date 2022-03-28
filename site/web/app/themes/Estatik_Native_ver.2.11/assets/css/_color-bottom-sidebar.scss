@@ -1,0 +1,97 @@
+.color-bottom-sidebar{
+  width: 100%;
+}
+.color-bottom-sidebar__container{
+  /*padding: 45px 0px;*/
+  margin: 0 auto;
+  max-width: $main-width;
+  display: -webkit-box;
+  display: -moz-box;
+  display: -ms-flexbox;
+  display: flex;
+  -ms-flex-wrap: wrap;
+      flex-wrap: wrap;
+  -webkit-box-pack: justify;
+     -moz-box-pack: justify;
+      -ms-flex-pack: justify;
+          justify-content: space-between;
+  overflow: hidden;
+}
+.color-bottom-sidebar__container > section{
+  -webkit-box-flex: 1;
+     -moz-box-flex: 1;
+      -ms-flex-positive: 1;
+          flex-grow: 1;
+  -ms-flex-preferred-size: 265px;
+      flex-basis: 265px;
+  margin: 45px 15px 45px -1px;
+  padding-left: 20px;
+  border-style: solid;
+  border-left-width: 1px;
+}
+.color-bottom-sidebar a,
+.color-bottom-sidebar p,
+.color-bottom-sidebar .latest-news__block-wrapper .latest-new__date p{
+  line-height: 30px;
+  text-decoration: none;
+  color: #f0f0f0;
+}
+.color-bottom-sidebar a:hover{
+  text-decoration: underline;
+}
+.color-bottom-sidebar .widget-title,
+.color-bottom-sidebar h1{
+  line-height: 30px;
+  margin-bottom: 20px;
+  font-size: 30px;
+  text-transform: uppercase;
+  font-weight: 200;
+  text-align: center;
+}
+.message_sent__container{
+  color: #2bbe0e;
+}
+.message_sent__container{
+  padding-bottom: 20px;
+  text-align: center;
+}
+.color-bottom-sidebar .es-slide__image,
+.color-bottom-sidebar .es-slide__image a{
+  line-height: 0;
+}
+.color-bottom-sidebar .es-slide__image a img{
+  max-width: 100%;
+  height: auto;
+  width: 100%;
+}
+.color-bottom-sidebar .es-slide__content{
+  height: 40px;
+}
+.color-bottom-sidebar .es-slide__top{
+  display: -webkit-box;
+  display: -moz-box;
+  display: -ms-flexbox;
+  display: flex;
+  -ms-flex-wrap: wrap;
+      flex-wrap: wrap;
+}
+.color-bottom-sidebar .es-slide .es-slide__content .es-slide__top{
+  top: unset;
+  bottom: 40px;
+}
+.color-bottom-sidebar p{
+  line-height: 20px;
+}
+.color-bottom-sidebar .latest-news__block-wrapper .latest-new__date p{
+  color: #9f9f9f;
+  line-height: 20px;
+}
+.color-bottom-sidebar .latest-news a:hover,
+.color-bottom-sidebar .latest-news a:hover > p{
+  text-decoration: none;
+  color: #ffffff;
+}
+.color-bottom-sidebar .latest-news a{
+  text-decoration: none;
+}
+

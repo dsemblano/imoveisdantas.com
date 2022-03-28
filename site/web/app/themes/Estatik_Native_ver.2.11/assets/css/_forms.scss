@@ -1,0 +1,82 @@
+.es-login__wrap-name{
+  margin-bottom: 30px;
+  color: #1d1d1d;
+}
+.article-block__copy .es-login__wrap-name{
+  text-align: center;
+}
+.native-login__wrap,
+.es-login__wrap{
+  max-width: 360px;
+  width: 100%;
+  margin: 0 auto 50px;
+  border-radius: 3px;
+  padding: 20px 30px;
+}
+.es-login__wrap form{
+  /*background: #56c000;*/
+  /*border-radius: 5px;*/
+  text-align: center;
+ /* padding: 10px;*/
+}
+.native-login__wrap .es-login__links {
+  text-align: left;
+}
+.native-login__wrap .es-login__links a{
+  line-height: 30px;
+  color: #ffffff;
+  text-decoration: underline;
+}
+.native-login__wrap .es-message-error{
+  color: #ffffff;
+}
+.native-login__wrap .es-login__links a:hover{
+  text-decoration: none;
+}
+.native-login__wrap .es-field__wrap, .native-login__wrap .native-submit__wrap,
+.es-login__wrap .es-field__wrap, .es-login__wrap .es-submit__wrap{
+  position: relative;
+  margin: 15px 0 !important;
+  width: 100%;
+  text-align: center;
+  z-index: 0;
+}
+.native-login__wrap .es-field__wrap input:not([type=submit]),
+.native-login__wrap .native-submit__wrap input:not([type=submit]),
+.es-login__wrap .es-field__wrap input,
+.es-login__wrap .es-field__wrap input,
+.es-login__wrap .es-submit__wrap input,
+.es-login__wrap .es-submit__wrap input{
+  outline: none;
+  height: 34px;
+  padding-left: 30px;
+  width: 100%;
+}
+
+.native-login__wrap {
+  .native__button--login, .es-btn--auth {
+    margin-bottom: 10px;
+  }
+}
+
+.es-field-icon i,
+.es-login__wrap .es-field__wrap.es-field-icon .fa{
+  position: absolute;
+  top: 14px;
+  left: 11px;
+  color: #dedede;
+  font-size: 16px;
+}
+.native-login__wrap input:not([type=submit]):focus,
+.es-login__wrap .es-field__wrap input:not([type=submit]):focus{
+  outline: none;
+  border: 1px solid #e2e2e2;
+  -webkit-box-shadow: 0px 0px 4px 0px rgba(255,255,255,1);
+          box-shadow: 0px 0px 4px 0px rgba(255,255,255,1);
+}
+.es-field__wrap{
+  padding: 4px;
+}
+/*button*/
+
+/*end of button*/

@@ -1,0 +1,57 @@
+.navigation.pagination{
+  width: 100%;
+}
+
+.native-nav-links > ul{
+  display: -webkit-box;
+  display: -moz-box;
+  display: -ms-flexbox;
+  display: flex;
+  -ms-flex-wrap: wrap;
+      flex-wrap: wrap;
+  -webkit-box-pack: center;
+     -moz-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  list-style: none;
+}
+.native-nav-links > ul li{
+  list-style: none;
+}
+.native-nav-links ul li > .page-numbers{
+  text-align: center;
+  display: block;
+  height: 36px;
+  width: 36px;
+  -webkit-box-sizing: border-box;
+     -moz-box-sizing: border-box;
+          box-sizing: border-box;
+  line-height: 34px;
+  border: 1px solid;
+  border-radius: 3px;
+  font-size: 14px;
+  margin: 6px;
+  text-decoration: none;
+}
+.native-nav-links ul li > .page-numbers:hover{
+  color: #FFFFFF;
+}
+.native-nav-links ul li > .current{
+  border-color: #e2e2e2;
+  color: #e2e2e2;
+}
+.native-nav-links ul li .current:hover{
+  border-color: #e2e2e2;
+  color: #e2e2e2;
+  background-color: unset;
+}
+.native-nav-links ul li > .next, .native-nav-links ul li > .prev{
+ padding: 0 34px;
+  width: auto;
+}
+.native-nav-links ul li > .next{
+  margin-left: 20px;
+}
+.native-nav-links ul li > .prev{
+  margin-right: 20px;
+}

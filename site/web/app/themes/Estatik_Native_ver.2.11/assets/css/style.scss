@@ -1,0 +1,317 @@
+$theme-color: #1d1d1d;
+$theme-color-dark: #353535;
+$theme-color-light: #353535;
+$theme-color-extra-light: #484848;
+$theme-color-lighter-extra-light: #9e9e9e;
+.native__color--background,
+.banner-title,
+.native__button:hover,
+.native-login__wrap,
+.es-agent-register__wrap .es-field .es-field__content input[type=submit]:hover,
+.navigate-line__wrapper > .mobile-menu__button,
+.mobile-contact__button,
+.color-bottom-sidebar,
+.native__button--solid,
+.color-bottom-sidebar .widget_es_native_page_teaser_widget a,
+.es-login__wrap,
+.not-found__background .theme-btn:hover,
+.es-single-tabs-wrap ul.es-single-tabs li a:hover{
+  background-color: $theme-color;
+}
+.es-request-widget-wrap input[type=submit]:hover,
+.content-top-sidebar .es-dropdown-wrap ul li:hover{
+  background: $theme-color !important;
+}
+.es-button.es-button-orange.es-hover-show.es-read,
+.es-search__wrapper:before,
+.content-top-sidebar .es-search__wrapper.es-search__wrapper--horizontal .es-search__buttons .es-button__wrap .es-button.es-button-orange-corner,
+.content-top-sidebar .es-search__wrapper.es-search__wrapper--horizontal .es-search__buttons .es-button__wrap .es-button.es-button-orange-corner:hover{
+  background: $theme-color !important;
+}
+.native__dark--background,
+.footer__copyright,
+.native-nav-links ul li .page-numbers:hover,
+.widget_categories h2,
+.widget_search{
+  background-color: $theme-color-dark;
+}
+.main-menu__menu li ul{
+  background-color: $theme-color-dark;
+}
+@media (max-width: 640px){
+  .header__contact-information{
+    background-color: $theme-color-dark;
+  }
+}
+.main-menu__menu a:before,
+.widget_categories .cat-item a:before
+{
+  background: $theme-color-extra-light;
+}
+.main-menu__menu li a,
+.header__phone div,
+.footer__copyright,
+.color-bottom-sidebar .widget-title,
+.color-bottom-sidebar h1{
+  color: $theme-color-lighter-extra-light;
+}
+.menu-item-has-children > a:first-child:after{
+  border-top-color: $theme-color-lighter-extra-light !important;
+}
+.main-menu ul li:before{
+  background: $theme-color-dark;
+}
+.article-block__tags a{
+  color: $theme-color-light;
+}
+.native__button,
+.content-block__title:hover > span,
+.sidr-class-mobile-menu__button:before,
+.popular-properties__container ul li a,
+.page-numbers,
+.widget_recent_entries ul li a,
+.widget_recent_entries,
+.widget_recent_entries ul,
+.post-search-form__button,
+.native__button--login,
+.es-agent__logout.es-btn.es-btn-orange-bordered,
+.not-found__background .theme-btn{
+  color: $theme-color;
+}
+.es-request-widget-wrap input[type=submit],
+.es-agent__logout.es-btn.es-btn-orange-bordered,
+.es-login__wrap .es-submit__wrap .es-btn.es-btn-orange{
+  color: $theme-color !important;
+}
+.es-search__wrapper.es-search__wrapper--vertical .es-search__buttons .es-button__wrap .es-button.es-button-orange-corner,
+.es-search__wrapper.es-search__wrapper--horizontal .es-search__buttons .es-button__wrap .es-button.es-button-orange-corner{
+  color: $theme-color !important;
+}
+.es-search__wrapper.es-search__wrapper--vertical .es-search__buttons .es-button__wrap .es-button.es-button-orange-corner:hover,
+.es-search__wrapper.es-search__wrapper--horizontal .es-search__buttons .es-button__wrap .es-button.es-button-orange-corner:hover,
+.theme-btn.js-btn-submit:hover{
+  color: $theme-color !important;
+}
+.native__button,
+.content-block__grid li:hover,
+.footer__socials a:hover,
+.page-numbers{
+  border-color: $theme-color;
+}
+.es-request-widget-wrap input[type=submit]{
+  border: 1px solid $theme-color !important;
+}
+.es-single-tabs-wrap ul.es-single-tabs li a{
+  border-top: 1px solid $theme-color;
+  border-left:  1px solid $theme-color;
+  border-right:  1px solid $theme-color;
+}
+.native-nav-links ul li .page-numbers:hover,
+.color-bottom-sidebar__container > section{
+  border-color: $theme-color-dark;
+}
+.sidr ul li:hover > a,
+.sidr ul li:hover > span, .sidr ul li.active > a,
+.sidr ul li.active > span, .sidr ul li.sidr-class-active > a,
+.sidr ul li.sidr-class-active > span {
+  background: $theme-color-dark;
+  -webkit-box-shadow: 0 0 15px 3px $theme-color inset;
+  box-shadow: 0 0 15px 3px $theme-color inset;
+  color: #FFFFFF;
+}
+.sidr ul li ul li:hover > a,
+.sidr ul li ul li:hover > span, .sidr ul li ul li.active > a,
+.sidr ul li ul li.active > span, .sidr ul li ul li.sidr-class-active > a,
+.sidr ul li ul li.sidr-class-active > span {
+  -webkit-box-shadow: 0 0 15px 3px $theme-color inset;
+  box-shadow: 0 0 15px 3px $theme-color inset;
+}
+
+.sidr-class-menu-item-has-children {
+  position: relative;
+
+  .fa {
+    position: absolute;
+    line-height: 40px;
+    width: 40px;
+    text-align: center;
+    right: 0;
+    top: 0;
+  }
+}
+
+.es-slideshow {
+  background: transparent !important;
+}
+
+.success p {
+  color:#fff;
+}
+
+*{
+  min-height: 0;
+  min-width: 0;
+}
+
+@import 'header';
+@import 'fonts';
+@import 'buttons';
+@import 'page';
+@import 'article-block';
+@import 'agent';
+@import 'archive';
+@import 'forms';
+@import 'mobile-menu';
+@import 'properties-widget';
+@import 'color-bottom-sidebar';
+@import 'paginator';
+@import 'sidebar-widget';
+@import 'contact-page';
+@import 'propertie';
+@import '404';
+@import 'responsive';
+@import 'footer';
+
+.es-properties-map .es-overlay .es-overlay__head .es-overlay__close {
+  line-height: 1;
+  padding: 4px 6px 5px;
+}
+
+.es-rating .jq-star svg {
+  height: 19px;
+}
+
+#es-media-list {
+  li {
+    list-style: none;
+    width: auto !important;
+  }
+}
+
+@media screen and (max-width: 600px) {
+  #wpadminbar {
+    position: absolute;
+  }
+
+  .sticky-header {
+    position: static;
+  }
+}
+
+.widgettitle, .widget-title {
+    word-break: break-word;
+}
+
+/* =WordPress Core
+-------------------------------------------------------------- */
+.alignnone {
+    margin: 5px 20px 20px 0;
+}
+
+.aligncenter,
+div.aligncenter {
+    display: block;
+    margin: 5px auto 5px auto;
+}
+
+.alignright {
+    float:right;
+    margin: 5px 0 20px 20px;
+}
+
+.alignleft {
+    float: left;
+    margin: 5px 20px 20px 0;
+}
+
+a img.alignright {
+    float: right;
+    margin: 5px 0 20px 20px;
+}
+
+a img.alignnone {
+    margin: 5px 20px 20px 0;
+}
+
+a img.alignleft {
+    float: left;
+    margin: 5px 20px 20px 0;
+}
+
+a img.aligncenter {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.wp-caption {
+    background: #fff;
+    border: 1px solid #f0f0f0;
+    max-width: 96%; /* Image does not overflow the content area */
+    padding: 5px 3px 10px;
+    text-align: center;
+}
+
+.wp-caption.alignnone {
+    margin: 5px 20px 20px 0;
+}
+
+.wp-caption.alignleft {
+    margin: 5px 20px 20px 0;
+}
+
+.wp-caption.alignright {
+    margin: 5px 0 20px 20px;
+}
+
+.wp-caption img {
+    border: 0 none;
+    height: auto;
+    margin: 0;
+    max-width: 98.5%;
+    padding: 0;
+    width: auto;
+}
+
+.wp-caption p.wp-caption-text {
+    font-size: 11px;
+    line-height: 17px;
+    margin: 0;
+    padding: 0 4px 5px;
+}
+
+/* Text meant only for screen readers. */
+.screen-reader-text {
+    border: 0;
+    clip: rect(1px, 1px, 1px, 1px);
+    clip-path: inset(50%);
+    height: 1px;
+    margin: -1px;
+    overflow: hidden;
+    padding: 0;
+    position: absolute !important;
+    width: 1px;
+    word-wrap: normal !important; /* Many screen reader and browser combinations announce broken words as they would appear visually. */
+}
+
+.screen-reader-text:focus {
+    background-color: #eee;
+    clip: auto !important;
+    clip-path: none;
+    color: #444;
+    display: block;
+    font-size: 1em;
+    height: auto;
+    left: 5px;
+    line-height: normal;
+    padding: 15px 23px 14px;
+    text-decoration: none;
+    top: 5px;
+    width: auto;
+    z-index: 100000;
+    /* Above WP toolbar. */
+}
+
+.es-manage-property__tab .es-tab#es-media .form-table {
+  width: 100%;
+}

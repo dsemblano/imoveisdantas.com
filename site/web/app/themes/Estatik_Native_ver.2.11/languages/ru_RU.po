@@ -1,0 +1,962 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Estatik Native\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2019-11-22 21:11+0000\n"
+"PO-Revision-Date: 2019-11-23 10:19+0000\n"
+"Last-Translator: admin <admin@native3.estatik.net>\n"
+"Language-Team: Russian\n"
+"Language: ru_RU\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10 >= 2 && "
+"n%10<=4 &&(n%100<10||n%100 >= 20)? 1 : 2);\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.3.1; wp-5.2.4"
+
+#: templates/content-archive.php:42 templates/content-archive.php:77
+msgid " photos"
+msgstr ""
+"фото\n"
+
+#: inc/widgets/forms/es-nav-menu-widget-form.php:38
+msgid "&mdash; Select &mdash;"
+msgstr "- Выбрать -"
+
+#: inc/widgets/forms/es-native-recent-posts-widget-form.php:29
+msgid "-- Select category --"
+msgstr ""
+"-- Выбрать категорию --\n"
+
+#: inc/admin/templates/general-tab.php:9
+msgid "-- Select page --"
+msgstr ""
+"-- Выберите страницу --\n"
+
+#: inc/widgets/forms/es-properties-widget-form.php:26
+msgid "-- Select parameters for filtering --"
+msgstr "-- Выберите параметры для фильтрации --"
+
+#: inc/admin/templates/404.php:33
+msgid "404 Button label"
+msgstr ""
+"404 Метка кнопки\n"
+
+#: inc/class-options-container.php:136
+msgid "404 Error"
+msgstr ""
+"Ошибка 404\n"
+
+#: inc/admin/class-options-page.php:82 inc/widgets/class-native-widget.php:53
+msgid "404 Page"
+msgstr ""
+"404 Page\n"
+
+#: inc/admin/templates/404.php:25
+msgid "404 Page text"
+msgstr ""
+"404 Текст страницы\n"
+
+#: inc/admin/templates/404.php:20
+msgid "404 Page title"
+msgstr ""
+"404 Заголовок страницы\n"
+
+#: inc/class-native-theme.php:364
+msgid "Account Menu"
+msgstr ""
+"Меню учетной записи\n"
+
+#: inc/class-native-theme.php:381
+msgid "Add New News"
+msgstr "Добавить новость"
+
+#: inc/class-native-theme.php:594
+msgid "Add widgets above the content after title."
+msgstr ""
+"Добавьте виджеты над содержанием после заголовка.\n"
+
+#: inc/class-native-theme.php:612
+msgid "Add widgets above the content on full window width."
+msgstr ""
+"Добавьте виджеты над содержимым на всю ширину окна.\n"
+
+#: inc/class-native-theme.php:603
+msgid "Add widgets above the content."
+msgstr ""
+"Добавьте виджеты над содержанием.\n"
+
+#: inc/class-native-theme.php:585
+msgid "Add widgets at the right or left side on the properties."
+msgstr ""
+"Добавьте виджеты справа или слева от свойств.\n"
+
+#: inc/class-native-theme.php:567
+msgid "Add widgets at the right side on the content"
+msgstr ""
+"Добавьте виджеты справа от контента\n"
+
+#: inc/class-native-theme.php:576
+msgid "Add widgets at the right side on the pages."
+msgstr ""
+"Добавьте виджеты с правой стороны на страницах.\n"
+
+#: inc/class-native-theme.php:621
+msgid ""
+"Add widgets at the top of page with template Page with top Estatik search."
+msgstr ""
+"Добавьте виджеты вверху страницы с шаблоном Page с поиском в Estatik.\n"
+
+#: inc/class-native-theme.php:639
+msgid "Add widgets below the content in color section."
+msgstr "Добавьте виджеты ниже содержимого в разделе цвета."
+
+#: inc/class-native-theme.php:630
+msgid "Add widgets below the content."
+msgstr "Добавьте виджеты под содержанием."
+
+#: inc/class-native-theme.php:199
+msgid ""
+"After you import this demo, you will have to setup the revolution slider "
+"separately and add MailChimp settings."
+msgstr ""
+"После того, как вы импортируете эту демонстрацию, вам придется отдельно "
+"настроить ползунок революции и добавить настройки MailChimp."
+
+#: inc/class-native-theme.php:384
+msgid "All News"
+msgstr ""
+"Все новости\n"
+
+#: inc/widgets/class-native-widget.php:124
+msgid "All pages"
+msgstr ""
+"Все страницы\n"
+
+#: inc/widgets/forms/es-native-recent-posts-widget-form.php:24
+#: inc/widgets/forms/es-native-latest-news-widget-form.php:26
+msgid "Amount of News:"
+msgstr ""
+"Количество новостей:\n"
+
+#: inc/widgets/forms/es-properties-widget-form.php:22
+msgid "Amount of properties:"
+msgstr ""
+"Количество свойств:\n"
+
+#: inc/widgets/class-native-widget.php:46
+msgid "Archive page"
+msgstr ""
+"Архив страницы\n"
+
+#: inc/widgets/class-native-widget.php:49
+msgid "Archive Property Page"
+msgstr ""
+"Страница свойств архива\n"
+
+#: inc/class-native-theme.php:727
+msgid "Archives"
+msgstr ""
+"Архив\n"
+
+#: inc/class-native-theme.php:794
+#, php-format
+msgid "Articles Posted by %s"
+msgstr "Статьи, опубликованные %s"
+
+#: inc/widgets/class-native-widget.php:52
+msgid "Author Page"
+msgstr ""
+"Страница автора\n"
+
+#: inc/widgets/forms/es-native-banners-widget-form.php:33
+msgid "Banner Link:"
+msgstr ""
+"Баннерная ссылка:\n"
+
+#: inc/widgets/forms/es-native-banners-widget-form.php:41
+msgid "Banner Subtitle:"
+msgstr ""
+"Баннер Субтитры:\n"
+
+#: inc/widgets/forms/es-native-banners-widget-form.php:37
+msgid "Banner Title:"
+msgstr ""
+"Название баннера:\n"
+
+#: inc/class-native-theme.php:637
+msgid "Bottom Color Wide Sidebar"
+msgstr ""
+"Цвет снизу Широкая боковая панель\n"
+
+#: inc/class-native-theme.php:628
+msgid "Bottom Wide Sidebar"
+msgstr ""
+"Нижняя широкая боковая панель\n"
+
+#: inc/class-native-theme.php:413
+msgid "Button Label"
+msgstr ""
+"Метка кнопки\n"
+
+#: inc/class-native-theme.php:429
+msgid "Button link label"
+msgstr ""
+"Метка ссылки кнопки\n"
+
+#: inc/widgets/class-native-widget.php:50
+msgid "Category Page"
+msgstr "Страница категории"
+
+#: comments.php:75
+msgid "Comments are closed."
+msgstr ""
+"Комментарии закрыты.\n"
+
+#. 1: number of comments, 2: post title
+#: comments.php:40
+#, php-format
+msgctxt "comments title"
+msgid "%1$s Reply to &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s Replies to &ldquo;%2$s&rdquo;"
+msgstr[0] "%1$s Ответить на &ldquo;%2$s&rdquo;"
+msgstr[1] ""
+msgstr[2] ""
+
+#. %s: post title
+#: comments.php:36
+#, php-format
+msgctxt "comments title"
+msgid "One Reply to &ldquo;%s&rdquo;"
+msgstr "Один ответ на &ldquo;%s&rdquo;"
+
+#: inc/admin/class-options-page.php:78
+msgid "Contact Info"
+msgstr ""
+"Контактная информация\n"
+
+#: inc/class-native-theme.php:565
+msgid "Content Sidebar Right"
+msgstr ""
+"Боковая панель контента справа\n"
+
+#: inc/class-native-theme.php:592
+msgid "Content Top Sidebar"
+msgstr ""
+"Верхняя боковая панель контента\n"
+
+#: templates/content-post-archive.php:40
+msgid "Continue reading"
+msgstr ""
+"Продолжить чтение\n"
+
+#: inc/admin/templates/general-tab.php:128
+msgid "Copyright"
+msgstr ""
+"Авторское право\n"
+
+#: inc/class-options-container.php:76
+msgid "Copyright 2017 Estatik. All rights reserved."
+msgstr ""
+"Copyright 2017 Estatik. Все права защищены.\n"
+
+#: inc/admin/templates/general-tab.php:109
+msgid "Custom CSS"
+msgstr "Пользовательские CSS"
+
+#: templates/content-archive.php:26
+msgid "Details"
+msgstr "Детали"
+
+#: inc/class-options-container.php:108
+msgid ""
+"Drop us a line or give us a ring. We love to hear about your experience. We "
+"are happy to answer any questions."
+msgstr ""
+"Напишите нам или позвоните нам. Мы рады услышать о вашем опыте. Мы рады "
+"ответить на любые вопросы."
+
+#: inc/widgets/forms/es-nav-menu-widget-form.php:48
+msgid "Edit Menu"
+msgstr ""
+"Редактировать меню\n"
+
+#: inc/class-native-theme.php:382
+msgid "Edit News"
+msgstr ""
+"Редактировать новости\n"
+
+#: inc/class-contact-form.php:102
+msgid "Email"
+msgstr ""
+"Эл. адрес\n"
+
+#: inc/class-options-container.php:116
+msgid "Email Us"
+msgstr ""
+"Свяжитесь с нами по электронной почте\n"
+
+#: searchform.php:3
+msgid "Enter key word"
+msgstr ""
+"Введите ключевое слово\n"
+
+#: estatik/shortcodes/reset.php:16
+msgid "Enter new password"
+msgstr ""
+"Введите новый пароль\n"
+
+#: inc/class-native-theme.php:795
+msgid "Error 404"
+msgstr "Ошибка 404"
+
+#. Author of the theme
+msgid "Estatik"
+msgstr "Estatik"
+
+#: inc/class-native-theme.php:162
+msgid "Estatik Mortgage Calculator"
+msgstr "Estatik Mortgage Calculator"
+
+#. Name of the theme
+msgid "Estatik Native"
+msgstr "Estatik Native"
+
+#: inc/class-native-theme.php:156
+msgid "Estatik Real Estate"
+msgstr "Estatik Real Estate"
+
+#: inc/admin/templates/social-sharing.php:17
+msgid "Facebook link"
+msgstr "Ссылка в фейсбуке"
+
+#: inc/admin/templates/general-tab.php:54
+msgid "Favicon"
+msgstr ""
+"Favicon\n"
+
+#: inc/admin/class-options-page.php:70
+msgid "General"
+msgstr ""
+"Генеральный\n"
+
+#: estatik/shortcodes/reset.php:31
+msgid "Get new password"
+msgstr ""
+"Получить новый пароль\n"
+
+#: inc/class-options-container.php:144
+msgid "Go to the Home page"
+msgstr ""
+"Перейти на главную страницу\n"
+
+#: inc/admin/templates/social-sharing.php:22
+msgid "Google plus link"
+msgstr ""
+"Ссылка Google плюс\n"
+
+#: inc/widgets/class-native-widget.php:126
+msgid "Hide on checked pages"
+msgstr ""
+"Скрыть на проверенных страницах\n"
+
+#: inc/class-native-theme.php:792
+msgid "Home"
+msgstr ""
+"Главная\n"
+
+#: inc/widgets/class-native-widget.php:45
+msgid "Home page with latest posts"
+msgstr ""
+"Домашняя страница с последними сообщениями\n"
+
+#. URI of the theme
+#. Author URI of the theme
+msgid "http://estatik.net/"
+msgstr "http://estatik.net/"
+
+#: templates/contact-form.php:37
+#, php-format
+msgid "I agree to the %s and %s"
+msgstr ""
+"Я согласен с %s и %s\n"
+
+#: estatik/shortcodes/login.php:42
+msgid "I forgot my password"
+msgstr ""
+"Я забыл мой пароль\n"
+
+#: estatik/shortcodes/login.php:46
+msgid "I need to register for a new account"
+msgstr ""
+"Мне нужно зарегистрироваться для новой учетной записи\n"
+
+#: inc/admin/class-options-page.php:146 inc/widgets/class-banners-widget.php:53
+msgid "Insert Image"
+msgstr ""
+"Вставить изображение\n"
+
+#: inc/class-contact-form.php:84
+msgid "Invalid recaptcha."
+msgstr ""
+"Неверное резюме.\n"
+
+#: inc/admin/templates/general-tab.php:72
+msgid "Is sticky header"
+msgstr ""
+"Липкий заголовок\n"
+
+#: inc/widgets/forms/es-native-latest-news-widget-form.php:32
+msgid "Layout"
+msgstr "Раскладка"
+
+#: inc/widgets/templates/es-native-page-teaser-widget.php:25
+msgid "Learn More"
+msgstr ""
+"Выучить больше\n"
+
+#: single-properties.php:29 single-properties.php:44
+msgid "Learn more about this property"
+msgstr ""
+"Узнайте больше об этой собственности\n"
+
+#: inc/class-options-container.php:149
+msgid "Left Sidebar"
+msgstr ""
+"Левая боковая панель\n"
+
+#: inc/admin/templates/social-sharing.php:27
+msgid "LinkedIn link"
+msgstr ""
+"LinkedIn ссылка\n"
+
+#: estatik/shortcodes/login.php:28
+msgid "Log in"
+msgstr ""
+"Авторизоваться\n"
+
+#: estatik/shortcodes/login.php:4
+msgid "Log in into your account"
+msgstr ""
+"Войдите в свой аккаунт\n"
+
+#: inc/class-native-theme.php:365
+msgid "Login Menu"
+msgstr ""
+"Меню входа\n"
+
+#: inc/admin/templates/general-tab.php:23
+msgid "Logo"
+msgstr "Логотип"
+
+#: inc/admin/templates/general-tab.php:48
+msgid "Logo Height"
+msgstr ""
+"Высота логотипа\n"
+
+#: inc/admin/templates/general-tab.php:42
+msgid "Logo width"
+msgstr ""
+"Ширина логотипа\n"
+
+#: estatik/shortcodes/login.php:55 estatik/shortcodes/reset.php:46
+msgid "Logout"
+msgstr ""
+"Выйти\n"
+
+#: inc/class-native-theme.php:363
+msgid "Main Menu"
+msgstr ""
+"Главное меню\n"
+
+#: inc/admin/templates/general-tab.php:17
+msgid "Main Theme Color"
+msgstr ""
+"Основной цвет темы\n"
+
+#: inc/class-contact-form.php:114
+msgid "Message didn't send. Please, contact the support."
+msgstr ""
+"Сообщение не отправлено. Пожалуйста, обратитесь в службу поддержки.\n"
+
+#: inc/class-contact-form.php:101
+msgid "Name"
+msgstr ""
+"Название\n"
+
+#: inc/widgets/class-banners-widget.php:13
+msgid "Native Banners"
+msgstr "Native Баннеры"
+
+#: inc/widgets/class-nav-menu-widget.php:13
+msgid "Native Custom Menu"
+msgstr ""
+"Собственное меню\n"
+
+#: inc/widgets/class-hot-property-widget.php:13
+msgid "Native Hot Property"
+msgstr ""
+"Собственная горячая собственность\n"
+
+#: inc/widgets/class-latest-news-widget.php:13
+msgid "Native Latest News"
+msgstr ""
+"Native Последние Новости\n"
+
+#: inc/widgets/class-page-teaser-widget.php:13
+msgid "Native Page Teaser"
+msgstr ""
+"Тизер Native страницы\n"
+
+#: inc/widgets/class-properties-widget.php:13
+msgid "Native Properties List"
+msgstr "Список Native свойств"
+
+#: inc/widgets/class-recent-posts-widget.php:13
+msgid "Native Recent Posts"
+msgstr ""
+"Native Недавние Посты\n"
+
+#. Description of the theme
+msgid ""
+"Native Theme is a real estate theme built for Estatik Simple and Pro plugins."
+msgstr ""
+"Native Theme - это тема недвижимости, созданная для плагинов Estatik Simple "
+"и Pro.\n"
+
+#: inc/class-native-theme.php:383
+msgid "New News"
+msgstr ""
+"Новые новости\n"
+
+#: inc/class-native-theme.php:380
+msgctxt "News"
+msgid "Add New"
+msgstr "Добавить новое"
+
+#: inc/admin/templates/general-tab.php:114
+msgid "News per page"
+msgstr ""
+"Новости на страницу\n"
+
+#: comments.php:67
+msgid "Next"
+msgstr ""
+"Следующий\n"
+
+#: inc/admin/class-options-page.php:190
+#: inc/widgets/forms/es-native-latest-news-widget-form.php:45
+msgid "No"
+msgstr ""
+"Нет\n"
+
+#: inc/class-native-theme.php:387
+msgid "No News found"
+msgstr ""
+"Новости не найдены\n"
+
+#: inc/class-native-theme.php:388
+msgid "No News found in the Trash"
+msgstr ""
+"В корзине новостей не найдено\n"
+
+#: estatik/archive-properties.php:26 templates/archive-properties.php:26
+msgid "Nothing to display."
+msgstr ""
+"Нечего показать.\n"
+
+#: inc/class-native-theme.php:167
+msgid "One Click Demo Import"
+msgstr "One Click Demo Import"
+
+#: inc/class-options-container.php:157
+msgid "Optional"
+msgstr ""
+"Необязательный\n"
+
+#: inc/class-options-container.php:124
+msgid "Our Address"
+msgstr ""
+"Наш адресс\n"
+
+#: inc/class-native-theme.php:901
+msgid "Page"
+msgstr ""
+"Страница\n"
+
+#: inc/admin/templates/404.php:2
+msgid "Page 404 background image"
+msgstr ""
+"Страница 404 фоновое изображение\n"
+
+#: inc/class-native-theme.php:574
+msgid "Page Sidebar Right"
+msgstr ""
+"Боковая панель страницы справа\n"
+
+#: estatik/shortcodes/login.php:23
+msgid "Password"
+msgstr ""
+"Пароль\n"
+
+#: inc/class-contact-form.php:103
+msgid "Phone"
+msgstr "Телефон"
+
+#: inc/admin/templates/social-sharing.php:12
+msgid "Pinterest link"
+msgstr ""
+"Ссылка на Pinterest\n"
+
+#: inc/class-contact-form.php:80
+msgid "Please fill required fields."
+msgstr ""
+"Пожалуйста, заполните необходимые поля.\n"
+
+#: inc/admin/templates/options.php:11
+msgid "Please fill up your Theme Options and click save to finish."
+msgstr ""
+"Пожалуйста, заполните параметры темы и нажмите «Сохранить», чтобы закончить."
+"\n"
+
+#: inc/class-contact-form.php:88
+msgid "Please, agree terms & conditions and privacy policy."
+msgstr ""
+"Пожалуйста, согласуйте условия и политику конфиденциальности.\n"
+
+#: inc/class-native-theme.php:378
+msgctxt "post type general name"
+msgid "News"
+msgstr "Новости"
+
+#: inc/class-native-theme.php:379
+msgctxt "post type singular name"
+msgid "News"
+msgstr "Новости"
+
+#: single.php:41 templates/content-post-archive.php:30
+msgid "Posted in"
+msgstr ""
+"Опубликовано в\n"
+
+#: search.php:33 comments.php:66 archive.php:33
+#: estatik/archive-properties.php:30 templates/archive-properties.php:30
+msgid "Previous"
+msgstr ""
+"Предыдущий\n"
+
+#: templates/contact-form.php:4
+msgid "Privacy Policy"
+msgstr ""
+"Политика конфиденциальности\n"
+
+#: inc/admin/templates/general-tab.php:96
+msgid "Privacy Policy Checkbox"
+msgstr ""
+"Флажок Политика конфиденциальности\n"
+
+#: inc/admin/templates/general-tab.php:104
+msgid "Privacy Policy page"
+msgstr "Страница политики конфиденциальности"
+
+#: templates/subscriptions-table.php:43
+msgid "Proceed"
+msgstr ""
+"Проследовать\n"
+
+#: estatik/archive-properties.php:12 templates/archive-properties.php:12
+msgid "Properties"
+msgstr ""
+"Свойства\n"
+
+#: inc/class-native-theme.php:583
+msgid "Property Sidebar"
+msgstr ""
+"Боковая панель недвижимости\n"
+
+#: inc/class-contact-form.php:104
+msgid "Questions"
+msgstr ""
+"Вопросов\n"
+
+#: inc/admin/class-options-page.php:147 inc/widgets/class-banners-widget.php:54
+msgid "Remove Image"
+msgstr ""
+"Удалить изображение\n"
+
+#: comments.php:60
+msgid "Reply"
+msgstr ""
+"Ответить\n"
+
+#: inc/class-options-container.php:156
+msgid "Required"
+msgstr "Необходимые"
+
+#: estatik/shortcodes/reset.php:6
+msgid "Restore password"
+msgstr ""
+"Восстановить пароль\n"
+
+#: inc/class-options-container.php:150
+msgid "Right Sidebar"
+msgstr ""
+"Правая боковая панель\n"
+
+#: inc/admin/templates/options.php:12
+msgid "Save"
+msgstr ""
+"Сохранить\n"
+
+#: searchform.php:4
+msgid "Search"
+msgstr ""
+"Поиск\n"
+
+#: inc/admin/templates/general-tab.php:78
+msgid "Search block background image"
+msgstr ""
+"Фоновое изображение блока поиска\n"
+
+#: inc/class-native-theme.php:386
+msgid "Search News"
+msgstr ""
+"Поиск новостей\n"
+
+#: inc/widgets/class-native-widget.php:51
+msgid "Search Page"
+msgstr ""
+"Страница поиска\n"
+
+#: templates/search-properties.php:3
+msgid "Search properties"
+msgstr ""
+"Поиск недвижимости\n"
+
+#: inc/class-native-theme.php:793
+#, php-format
+msgid "Search Results for \"%s\" Query"
+msgstr ""
+"Результаты поиска по запросу \"%s\"\n"
+
+#: search.php:23
+#, php-format
+msgid "Search Results for: %s"
+msgstr ""
+"Результаты поиска для: %s\n"
+
+#: inc/admin/class-options-page.php:145 inc/widgets/class-banners-widget.php:52
+#: inc/widgets/forms/es-native-banners-widget-form.php:20
+msgid "Select Image"
+msgstr ""
+"Выберите изображение\n"
+
+#: inc/admin/templates/general-tab.php:27
+#: inc/admin/templates/general-tab.php:58
+#: inc/admin/templates/general-tab.php:82 inc/admin/templates/404.php:6
+msgid "Select image"
+msgstr ""
+"Выберите изображение\n"
+
+#: inc/widgets/forms/es-nav-menu-widget-form.php:36
+msgid "Select Menu:"
+msgstr ""
+"Выберите меню:\n"
+
+#: inc/widgets/forms/es-native-page-teaser-widget-form.php:21
+msgid "Select page"
+msgstr ""
+"Выберите страницу\n"
+
+#: inc/widgets/class-native-widget.php:96
+msgid "Select pages"
+msgstr "Выберите страницы"
+
+#: inc/widgets/forms/es-native-hot-property-widget-form.php:21
+msgid "Select property"
+msgstr ""
+"Выберите недвижимость\n"
+
+#: templates/contact-form.php:52
+msgid "Send"
+msgstr ""
+"Отправить\n"
+
+#: inc/admin/templates/general-tab.php:119
+msgid "Show breadcrumbs"
+msgstr ""
+"Показать панировочные сухари\n"
+
+#: inc/widgets/forms/es-native-latest-news-widget-form.php:41
+msgid "Show more button"
+msgstr ""
+"Показать больше кнопок\n"
+
+#: inc/widgets/class-native-widget.php:125
+msgid "Show on checked pages"
+msgstr ""
+"Показать на проверенных страницах\n"
+
+#: inc/widgets/class-native-widget.php:81
+msgid "Show on pages:"
+msgstr ""
+"Показать на страницах:\n"
+
+#: inc/widgets/class-native-widget.php:47
+msgid "Single Page"
+msgstr ""
+"Одна страница\n"
+
+#: inc/admin/templates/general-tab.php:124
+msgid "Single Property Layout"
+msgstr ""
+"Схема с одним свойством\n"
+
+#: inc/widgets/class-native-widget.php:48
+msgid "Single Property Page"
+msgstr ""
+"Единственная страница собственности\n"
+
+#: inc/admin/class-options-page.php:74
+msgid "Social Sharing"
+msgstr ""
+"Социальный обмен\n"
+
+#: search.php:41 archive.php:41
+msgid "Sorry, nothing found"
+msgstr "Простите, ничего не найдено"
+
+#: inc/admin/templates/contact.php:10
+msgid "Tel Number"
+msgstr ""
+"Номер телефона\n"
+
+#: templates/contact-form.php:3
+msgid "Terms of Use"
+msgstr ""
+"Условия эксплуатации\n"
+
+#: inc/admin/templates/general-tab.php:100
+msgid "Terms of Use page"
+msgstr ""
+"Страница условий использования\n"
+
+#: inc/class-contact-form.php:111
+msgid "Thank you for contacting us!"
+msgstr ""
+"Благодарим Вас за обращение к нам!\n"
+
+#: inc/admin/class-options-page.php:48
+msgid "Theme Native"
+msgstr "Theme Native"
+
+#: inc/admin/templates/options.php:6
+msgid "Theme Options"
+msgstr ""
+"Опции темы\n"
+
+#: inc/widgets/forms/es-nav-menu-widget-form.php:32
+msgid "Title:"
+msgstr ""
+"Заглавие:\n"
+
+#: inc/class-native-theme.php:619
+msgid "Top Banner Sidebar"
+msgstr ""
+"Верхняя панель баннера\n"
+
+#: inc/class-native-theme.php:601
+msgid "Top Sidebar"
+msgstr ""
+"Верхняя боковая панель\n"
+
+#: inc/class-native-theme.php:610
+msgid "Top Wide Sidebar"
+msgstr ""
+"Верхняя широкая боковая панель\n"
+
+#: templates/subscriptions-table.php:42
+msgid "Total"
+msgstr ""
+"Общее\n"
+
+#: inc/admin/templates/social-sharing.php:2
+msgid "Twitter link"
+msgstr "Twitter link"
+
+#: inc/admin/templates/contact.php:2
+msgid "User notification text"
+msgstr ""
+"Текст уведомления пользователя\n"
+
+#: estatik/shortcodes/login.php:15
+msgid "Username"
+msgstr ""
+"Имя пользователя\n"
+
+#: estatik/shortcodes/reset.php:19
+msgid "Username or email address"
+msgstr ""
+"Имя пользователя или адрес электронной почты\n"
+
+#: inc/class-native-theme.php:678
+msgid "Ver"
+msgstr ""
+"Ver\n"
+
+#: inc/widgets/forms/es-native-latest-news-widget-form.php:51
+msgid "View all link:"
+msgstr ""
+"Посмотреть все ссылки:\n"
+
+#: inc/class-native-theme.php:385
+msgid "View News"
+msgstr "Просмотр новостей"
+
+#: templates/content-archive.php:21
+msgid "View on map"
+msgstr "Посмотреть на карте"
+
+#: inc/widgets/forms/es-native-hot-property-widget-form.php:16
+#: inc/widgets/forms/es-properties-widget-form.php:18
+#: inc/widgets/forms/es-native-page-teaser-widget-form.php:16
+#: inc/widgets/forms/es-native-recent-posts-widget-form.php:18
+#: inc/widgets/forms/es-native-latest-news-widget-form.php:20
+msgid "Widget Title:"
+msgstr ""
+"Название виджета:\n"
+
+#: inc/admin/class-options-page.php:189
+#: inc/widgets/forms/es-native-latest-news-widget-form.php:42
+msgid "Yes"
+msgstr ""
+"Да\n"
+
+#: estatik/shortcodes/login.php:53 estatik/shortcodes/reset.php:44
+msgid "You are already logged in."
+msgstr ""
+"Вы уже вошли в систему.\n"
+
+#: templates/contact-form.php:21
+msgid "Your email"
+msgstr ""
+"Ваш адрес электронной почты\n"
+
+#: templates/contact-form.php:17
+msgid "Your name"
+msgstr ""
+"Ваше имя\n"
+
+#: templates/contact-form.php:25
+msgid "Your phone"
+msgstr ""
+"Твой телефон\n"
+
+#: templates/contact-form.php:29
+msgid "Your Questions"
+msgstr "Ваши вопросы"
+
+#: inc/admin/templates/social-sharing.php:7
+msgid "Youtube link"
+msgstr "Ссылка на Youtube"

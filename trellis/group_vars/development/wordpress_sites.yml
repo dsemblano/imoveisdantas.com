@@ -1,0 +1,18 @@
+# Created by trellis-cli v1.6.0
+# Documentation: https://docs.roots.io/trellis/master/wordpress-sites/
+
+wordpress_sites:
+  imoveisdantas.com:
+    site_hosts:
+    - canonical: imoveisdantas.test
+      redirects:
+      - www.imoveisdantas.test
+    local_path: ../site
+    admin_email: admin@imoveisdantas.test
+    multisite:
+      enabled: false
+    ssl:
+      enabled: false
+      provider: self-signed
+    cache:
+      enabled: false

@@ -1,0 +1,40 @@
+.es-agent__list .es-agent__item{
+  border-radius: 5px;
+}
+.es-agent__item .es-agent__item--inner .es-agent__content .es-agent__field.es-field__name{
+  text-transform: capitalize;
+}
+.es-agent__field{
+  margin-top: 20px;
+}
+.es-agent__field__mail a{
+  text-decoration: none;
+}
+.es-agent__item .es-agent__item--inner .es-agent__content .es-agent__field.es-field__name,
+.es-agent__item .es-agent__item--inner .es-agent__content .es-agent__field.es-field__tel{
+  padding: 0;
+}
+.es-agent__field__url{
+  margin-top: 10px;
+}
+.es-agent__item .es-agent__item--inner .es-agent__image{
+  line-height: 0;
+  -ms-flex-preferred-size: calc(35% - 10px);
+      flex-basis: -webkit-calc(35% - 10px);
+      flex-basis: -moz-calc(35% - 10px);
+      flex-basis: calc(35% - 10px);
+}
+.es-agent__item .es-agent__item--inner .es-agent__content {
+  -ms-flex-preferred-size: calc(65% - 10px);
+      flex-basis: -webkit-calc(65% - 10px);
+      flex-basis: -moz-calc(65% - 10px);
+      flex-basis: calc(65% - 10px);
+}
+.es-agent__content--right .es-agent__field,
+.es-agent__content--left .es-field__name{
+  margin-top: 0;
+}
+.es-agent__content--right,
+.es-agent__content--left{
+  margin-top: 5px;
+}

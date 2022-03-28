@@ -1,0 +1,38 @@
+.content-block__image img{
+  max-width: 100%;
+  border-radius: 3px;
+}
+.content-block__title{
+  text-decoration: none;
+}
+.content-block__container > h1{
+  line-height: normal;
+  margin-bottom: 25px;
+}
+.content-block__title > span{
+  font-size: 24px;
+  line-height: 50px;
+}
+.article-block__tags{
+  line-height: 40px;
+}
+.content-block__grid li{
+  padding: 10px 20px;
+  margin: 10px 0;
+  border: 1px solid #e2e2e2;
+  border-radius: 3px;
+}
+.button__wrap{
+  -webkit-box-flex: 1;
+     -moz-box-flex: 1;
+      -ms-flex-positive: 1;
+          flex-grow: 1;
+  text-align: right;
+}
+.es-agent-register__wrap .es-field .es-field__content input[type=submit]{
+  width: 100%;
+  border: 1px solid #000;
+  color: #000;
+  background: #e2e2e2;
+  line-height: 22px;
+}

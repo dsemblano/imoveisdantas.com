@@ -1,0 +1,968 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Estatik Native\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2019-11-22 21:11+0000\n"
+"PO-Revision-Date: 2019-11-25 19:55+0000\n"
+"Last-Translator: admin <admin@native3.estatik.net>\n"
+"Language-Team: Romanian\n"
+"Language: ro_RO\n"
+"Plural-Forms: nplurals=3; plural=(n==1 ? 0 :(((n%100>19)||(( n%100==0)&&(n!"
+"=0)))? 2 : 1));\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.3.1; wp-5.2.4"
+
+#: templates/content-archive.php:42 templates/content-archive.php:77
+msgid " photos"
+msgstr ""
+"fotografii\n"
+
+#: inc/widgets/forms/es-nav-menu-widget-form.php:38
+msgid "&mdash; Select &mdash;"
+msgstr "- Selectați -"
+
+#: inc/widgets/forms/es-native-recent-posts-widget-form.php:29
+msgid "-- Select category --"
+msgstr ""
+"-- Selecteaza categoria --\n"
+
+#: inc/admin/templates/general-tab.php:9
+msgid "-- Select page --"
+msgstr "-- Selectați pagina --"
+
+#: inc/widgets/forms/es-properties-widget-form.php:26
+msgid "-- Select parameters for filtering --"
+msgstr ""
+"-- Selectați parametrii pentru filtrare --\n"
+
+#: inc/admin/templates/404.php:33
+msgid "404 Button label"
+msgstr ""
+"404 Etichetă de buton\n"
+
+#: inc/class-options-container.php:136
+msgid "404 Error"
+msgstr ""
+"404 Eroare\n"
+
+#: inc/admin/class-options-page.php:82 inc/widgets/class-native-widget.php:53
+msgid "404 Page"
+msgstr ""
+"404 Pagina\n"
+
+#: inc/admin/templates/404.php:25
+msgid "404 Page text"
+msgstr ""
+"404 Textul paginii\n"
+
+#: inc/admin/templates/404.php:20
+msgid "404 Page title"
+msgstr ""
+"404 Titlul paginii\n"
+
+#: inc/class-native-theme.php:364
+msgid "Account Menu"
+msgstr ""
+"Meniu Cont\n"
+
+#: inc/class-native-theme.php:381
+msgid "Add New News"
+msgstr ""
+"Adăugați noutăți noi\n"
+
+#: inc/class-native-theme.php:594
+msgid "Add widgets above the content after title."
+msgstr ""
+"Adăugați widget-uri deasupra conținutului după titlu.\n"
+
+#: inc/class-native-theme.php:612
+msgid "Add widgets above the content on full window width."
+msgstr ""
+"Adăugați widget-uri deasupra conținutului pe lățimea completă a ferestrei.\n"
+
+#: inc/class-native-theme.php:603
+msgid "Add widgets above the content."
+msgstr ""
+"Adăugați widget-uri deasupra conținutului.\n"
+
+#: inc/class-native-theme.php:585
+msgid "Add widgets at the right or left side on the properties."
+msgstr ""
+"Adăugați widget-uri în partea dreaptă sau stângă la proprietăți.\n"
+
+#: inc/class-native-theme.php:567
+msgid "Add widgets at the right side on the content"
+msgstr "Adăugați widget-uri în partea dreaptă pe conținut"
+
+#: inc/class-native-theme.php:576
+msgid "Add widgets at the right side on the pages."
+msgstr ""
+"Adăugați widget-uri în partea dreaptă în pagini.\n"
+
+#: inc/class-native-theme.php:621
+msgid ""
+"Add widgets at the top of page with template Page with top Estatik search."
+msgstr ""
+"Adăugați widget-uri în partea de sus a paginii cu Pagina de șablon cu "
+"căutarea Estatik de sus.\n"
+
+#: inc/class-native-theme.php:639
+msgid "Add widgets below the content in color section."
+msgstr ""
+"Adăugați widgeturi sub conținutul din secțiunea de culori.\n"
+
+#: inc/class-native-theme.php:630
+msgid "Add widgets below the content."
+msgstr ""
+"Adăugați widgeturi sub conținut.\n"
+
+#: inc/class-native-theme.php:199
+msgid ""
+"After you import this demo, you will have to setup the revolution slider "
+"separately and add MailChimp settings."
+msgstr ""
+"După ce importați această demo, va trebui să configurați glisorul "
+"revoluționar separat și să adăugați setările MailChimp."
+
+#: inc/class-native-theme.php:384
+msgid "All News"
+msgstr ""
+"Toate noutățile\n"
+
+#: inc/widgets/class-native-widget.php:124
+msgid "All pages"
+msgstr ""
+"Toate paginile\n"
+
+#: inc/widgets/forms/es-native-recent-posts-widget-form.php:24
+#: inc/widgets/forms/es-native-latest-news-widget-form.php:26
+msgid "Amount of News:"
+msgstr ""
+"Suma de știri:\n"
+
+#: inc/widgets/forms/es-properties-widget-form.php:22
+msgid "Amount of properties:"
+msgstr ""
+"Valoarea proprietăților:\n"
+
+#: inc/widgets/class-native-widget.php:46
+msgid "Archive page"
+msgstr ""
+"Pagina de arhivă\n"
+
+#: inc/widgets/class-native-widget.php:49
+msgid "Archive Property Page"
+msgstr ""
+"Arhiva Pagina de proprietate\n"
+
+#: inc/class-native-theme.php:727
+msgid "Archives"
+msgstr ""
+"Arhive\n"
+
+#: inc/class-native-theme.php:794
+#, php-format
+msgid "Articles Posted by %s"
+msgstr ""
+"Articole postate de %s\n"
+
+#: inc/widgets/class-native-widget.php:52
+msgid "Author Page"
+msgstr ""
+"Pagina autorului\n"
+
+#: inc/widgets/forms/es-native-banners-widget-form.php:33
+msgid "Banner Link:"
+msgstr ""
+"Link Banner:\n"
+
+#: inc/widgets/forms/es-native-banners-widget-form.php:41
+msgid "Banner Subtitle:"
+msgstr ""
+"Subtitrare banner:\n"
+
+#: inc/widgets/forms/es-native-banners-widget-form.php:37
+msgid "Banner Title:"
+msgstr "Titlul bannerului:"
+
+#: inc/class-native-theme.php:637
+msgid "Bottom Color Wide Sidebar"
+msgstr ""
+"Bara laterală largă de culoare inferioară\n"
+
+#: inc/class-native-theme.php:628
+msgid "Bottom Wide Sidebar"
+msgstr ""
+"Bara laterală de jos lată\n"
+
+#: inc/class-native-theme.php:413
+msgid "Button Label"
+msgstr ""
+"Eticheta butonului\n"
+
+#: inc/class-native-theme.php:429
+msgid "Button link label"
+msgstr ""
+"Etichetă de legătură cu buton\n"
+
+#: inc/widgets/class-native-widget.php:50
+msgid "Category Page"
+msgstr ""
+"Pagina de categorii\n"
+
+#: comments.php:75
+msgid "Comments are closed."
+msgstr ""
+"Comentariile sunt închise.\n"
+
+#. 1: number of comments, 2: post title
+#: comments.php:40
+#, php-format
+msgctxt "comments title"
+msgid "%1$s Reply to &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s Replies to &ldquo;%2$s&rdquo;"
+msgstr[0] "%1$s Raspunde la &ldquo;%2$s&rdquo;"
+msgstr[1] ""
+msgstr[2] ""
+
+#. %s: post title
+#: comments.php:36
+#, php-format
+msgctxt "comments title"
+msgid "One Reply to &ldquo;%s&rdquo;"
+msgstr "Un răspuns la &ldquo;%s&rdquo;"
+
+#: inc/admin/class-options-page.php:78
+msgid "Contact Info"
+msgstr ""
+"Informatii de contact\n"
+
+#: inc/class-native-theme.php:565
+msgid "Content Sidebar Right"
+msgstr "Bara laterală conținut dreapta"
+
+#: inc/class-native-theme.php:592
+msgid "Content Top Sidebar"
+msgstr ""
+"Bara laterală superioară a conținutului\n"
+
+#: templates/content-post-archive.php:40
+msgid "Continue reading"
+msgstr ""
+"Continuați lectură\n"
+
+#: inc/admin/templates/general-tab.php:128
+msgid "Copyright"
+msgstr ""
+"Drepturi de autor\n"
+
+#: inc/class-options-container.php:76
+msgid "Copyright 2017 Estatik. All rights reserved."
+msgstr ""
+"Copyright 2017 Estatik. Toate drepturile rezervate.\n"
+
+#: inc/admin/templates/general-tab.php:109
+msgid "Custom CSS"
+msgstr ""
+"CSS personalizat\n"
+
+#: templates/content-archive.php:26
+msgid "Details"
+msgstr "Detalii"
+
+#: inc/class-options-container.php:108
+msgid ""
+"Drop us a line or give us a ring. We love to hear about your experience. We "
+"are happy to answer any questions."
+msgstr ""
+"Aruncă-ne o linie sau dă-ne un inel. Ne place să aflăm despre experiența ta. "
+"Suntem fericiți să răspundem la orice întrebare."
+
+#: inc/widgets/forms/es-nav-menu-widget-form.php:48
+msgid "Edit Menu"
+msgstr ""
+"Editează meniul\n"
+
+#: inc/class-native-theme.php:382
+msgid "Edit News"
+msgstr ""
+"Editează știri\n"
+
+#: inc/class-contact-form.php:102
+msgid "Email"
+msgstr ""
+"E-mail\n"
+
+#: inc/class-options-container.php:116
+msgid "Email Us"
+msgstr ""
+"Trimite-ti-ne un e-mail\n"
+
+#: searchform.php:3
+msgid "Enter key word"
+msgstr ""
+"Introduceți cuvântul cheie\n"
+
+#: estatik/shortcodes/reset.php:16
+msgid "Enter new password"
+msgstr ""
+"Introduceți o parolă nouă\n"
+
+#: inc/class-native-theme.php:795
+msgid "Error 404"
+msgstr ""
+"Eroare 404\n"
+
+#. Author of the theme
+msgid "Estatik"
+msgstr "Estatik"
+
+#: inc/class-native-theme.php:162
+msgid "Estatik Mortgage Calculator"
+msgstr "Estatik Mortgage Calculator"
+
+#. Name of the theme
+msgid "Estatik Native"
+msgstr "Estatik Native"
+
+#: inc/class-native-theme.php:156
+msgid "Estatik Real Estate"
+msgstr "Estatik Real Estate"
+
+#: inc/admin/templates/social-sharing.php:17
+msgid "Facebook link"
+msgstr "Facebook link"
+
+#: inc/admin/templates/general-tab.php:54
+msgid "Favicon"
+msgstr ""
+"Favicon\n"
+
+#: inc/admin/class-options-page.php:70
+msgid "General"
+msgstr ""
+"General\n"
+
+#: estatik/shortcodes/reset.php:31
+msgid "Get new password"
+msgstr ""
+"Obțineți o parolă nouă\n"
+
+#: inc/class-options-container.php:144
+msgid "Go to the Home page"
+msgstr ""
+"Accesați pagina de pornire\n"
+
+#: inc/admin/templates/social-sharing.php:22
+msgid "Google plus link"
+msgstr ""
+"Link Google plus\n"
+
+#: inc/widgets/class-native-widget.php:126
+msgid "Hide on checked pages"
+msgstr ""
+"Ascundeți-vă pe paginile verificate\n"
+
+#: inc/class-native-theme.php:792
+msgid "Home"
+msgstr ""
+"Acasă\n"
+
+#: inc/widgets/class-native-widget.php:45
+msgid "Home page with latest posts"
+msgstr "Pagina principală cu cele mai recente postări"
+
+#. URI of the theme
+#. Author URI of the theme
+msgid "http://estatik.net/"
+msgstr "http://estatik.net/"
+
+#: templates/contact-form.php:37
+#, php-format
+msgid "I agree to the %s and %s"
+msgstr ""
+"Sunt de acord cu %s și %s\n"
+
+#: estatik/shortcodes/login.php:42
+msgid "I forgot my password"
+msgstr ""
+"Am uitat parola\n"
+
+#: estatik/shortcodes/login.php:46
+msgid "I need to register for a new account"
+msgstr ""
+"Trebuie să mă înregistrez pentru un cont nou\n"
+
+#: inc/admin/class-options-page.php:146 inc/widgets/class-banners-widget.php:53
+msgid "Insert Image"
+msgstr ""
+"Inserați imagine\n"
+
+#: inc/class-contact-form.php:84
+msgid "Invalid recaptcha."
+msgstr "Recaptcha nevalid."
+
+#: inc/admin/templates/general-tab.php:72
+msgid "Is sticky header"
+msgstr ""
+"Este antet lipicios\n"
+
+#: inc/widgets/forms/es-native-latest-news-widget-form.php:32
+msgid "Layout"
+msgstr ""
+"Schemă\n"
+
+#: inc/widgets/templates/es-native-page-teaser-widget.php:25
+msgid "Learn More"
+msgstr ""
+"Aflați mai multe\n"
+
+#: single-properties.php:29 single-properties.php:44
+msgid "Learn more about this property"
+msgstr ""
+"Aflați mai multe despre această proprietate\n"
+
+#: inc/class-options-container.php:149
+msgid "Left Sidebar"
+msgstr ""
+"Bara laterală din stânga\n"
+
+#: inc/admin/templates/social-sharing.php:27
+msgid "LinkedIn link"
+msgstr ""
+"Link LinkedIn\n"
+"\n"
+
+#: estatik/shortcodes/login.php:28
+msgid "Log in"
+msgstr ""
+"Logare\n"
+
+#: estatik/shortcodes/login.php:4
+msgid "Log in into your account"
+msgstr ""
+"Autentificați-vă în contul dvs.\n"
+
+#: inc/class-native-theme.php:365
+msgid "Login Menu"
+msgstr ""
+"Meniu Logare\n"
+
+#: inc/admin/templates/general-tab.php:23
+msgid "Logo"
+msgstr "Siglă"
+
+#: inc/admin/templates/general-tab.php:48
+msgid "Logo Height"
+msgstr ""
+"Logo Height\n"
+
+#: inc/admin/templates/general-tab.php:42
+msgid "Logo width"
+msgstr ""
+"Lățimea logo-ului\n"
+
+#: estatik/shortcodes/login.php:55 estatik/shortcodes/reset.php:46
+msgid "Logout"
+msgstr ""
+"Deconectare\n"
+
+#: inc/class-native-theme.php:363
+msgid "Main Menu"
+msgstr ""
+"Meniu principal\n"
+
+#: inc/admin/templates/general-tab.php:17
+msgid "Main Theme Color"
+msgstr ""
+"Culoarea temei principale\n"
+
+#: inc/class-contact-form.php:114
+msgid "Message didn't send. Please, contact the support."
+msgstr ""
+"Mesajul nu a fost trimis. Vă rugăm, contactați asistența.\n"
+
+#: inc/class-contact-form.php:101
+msgid "Name"
+msgstr "Nombre"
+
+#: inc/widgets/class-banners-widget.php:13
+msgid "Native Banners"
+msgstr ""
+"Bannere native\n"
+
+#: inc/widgets/class-nav-menu-widget.php:13
+msgid "Native Custom Menu"
+msgstr ""
+"Meniu personalizat autohton\n"
+
+#: inc/widgets/class-hot-property-widget.php:13
+msgid "Native Hot Property"
+msgstr ""
+"Proprietate caldă nativă\n"
+
+#: inc/widgets/class-latest-news-widget.php:13
+msgid "Native Latest News"
+msgstr ""
+"Native Ultimele știri\n"
+
+#: inc/widgets/class-page-teaser-widget.php:13
+msgid "Native Page Teaser"
+msgstr ""
+"Native Page Teaser\n"
+
+#: inc/widgets/class-properties-widget.php:13
+msgid "Native Properties List"
+msgstr "Lista proprietăților native"
+
+#: inc/widgets/class-recent-posts-widget.php:13
+msgid "Native Recent Posts"
+msgstr ""
+"Postări recente native\n"
+
+#. Description of the theme
+msgid ""
+"Native Theme is a real estate theme built for Estatik Simple and Pro plugins."
+msgstr ""
+"Native Theme este o temă imobiliară construită pentru pluginurile Estatik "
+"Simple și Pro.\n"
+
+#: inc/class-native-theme.php:383
+msgid "New News"
+msgstr ""
+"Stiri noi\n"
+
+#: inc/class-native-theme.php:380
+msgctxt "News"
+msgid "Add New"
+msgstr "Adăuga nou"
+
+#: inc/admin/templates/general-tab.php:114
+msgid "News per page"
+msgstr "Știri pe pagină"
+
+#: comments.php:67
+msgid "Next"
+msgstr "Următor "
+
+#: inc/admin/class-options-page.php:190
+#: inc/widgets/forms/es-native-latest-news-widget-form.php:45
+msgid "No"
+msgstr ""
+"Nu\n"
+
+#: inc/class-native-theme.php:387
+msgid "No News found"
+msgstr ""
+"Nu s-au găsit știri\n"
+
+#: inc/class-native-theme.php:388
+msgid "No News found in the Trash"
+msgstr ""
+"Nu s-au găsit știri în coșul de gunoi\n"
+
+#: estatik/archive-properties.php:26 templates/archive-properties.php:26
+msgid "Nothing to display."
+msgstr ""
+"Nimic de afisat.\n"
+
+#: inc/class-native-theme.php:167
+msgid "One Click Demo Import"
+msgstr "Importul demonstrativ cu un clic"
+
+#: inc/class-options-container.php:157
+msgid "Optional"
+msgstr ""
+"Facultativ\n"
+
+#: inc/class-options-container.php:124
+msgid "Our Address"
+msgstr ""
+"Adresa noastră\n"
+
+#: inc/class-native-theme.php:901
+msgid "Page"
+msgstr ""
+"Pagină\n"
+
+#: inc/admin/templates/404.php:2
+msgid "Page 404 background image"
+msgstr ""
+"Pagina 404 imagine de fundal\n"
+
+#: inc/class-native-theme.php:574
+msgid "Page Sidebar Right"
+msgstr ""
+"Bara laterală a paginii spre dreapta\n"
+
+#: estatik/shortcodes/login.php:23
+msgid "Password"
+msgstr ""
+"Parola\n"
+
+#: inc/class-contact-form.php:103
+msgid "Phone"
+msgstr ""
+"Telefon\n"
+
+#: inc/admin/templates/social-sharing.php:12
+msgid "Pinterest link"
+msgstr ""
+"Linkul Pinterest\n"
+
+#: inc/class-contact-form.php:80
+msgid "Please fill required fields."
+msgstr ""
+"Vă rugăm să completați câmpurile obligatorii.\n"
+
+#: inc/admin/templates/options.php:11
+msgid "Please fill up your Theme Options and click save to finish."
+msgstr ""
+"Completați Opțiunile Tema și faceți clic pe Salvați pentru a termina.\n"
+
+#: inc/class-contact-form.php:88
+msgid "Please, agree terms & conditions and privacy policy."
+msgstr ""
+"Vă rugăm să acceptați termenii și condițiile și politica de "
+"confidențialitate."
+
+#: inc/class-native-theme.php:378
+msgctxt "post type general name"
+msgid "News"
+msgstr "Știri"
+
+#: inc/class-native-theme.php:379
+msgctxt "post type singular name"
+msgid "News"
+msgstr "Știri"
+
+#: single.php:41 templates/content-post-archive.php:30
+msgid "Posted in"
+msgstr ""
+"Postat în\n"
+
+#: search.php:33 comments.php:66 archive.php:33
+#: estatik/archive-properties.php:30 templates/archive-properties.php:30
+msgid "Previous"
+msgstr ""
+"Anterior\n"
+
+#: templates/contact-form.php:4
+msgid "Privacy Policy"
+msgstr ""
+"Politica de confidentialitate\n"
+
+#: inc/admin/templates/general-tab.php:96
+msgid "Privacy Policy Checkbox"
+msgstr ""
+"Caseta de selectare a politicii de confidențialitate\n"
+
+#: inc/admin/templates/general-tab.php:104
+msgid "Privacy Policy page"
+msgstr ""
+"Pagina cu Politica de confidențialitate\n"
+
+#: templates/subscriptions-table.php:43
+msgid "Proceed"
+msgstr ""
+"Continua\n"
+
+#: estatik/archive-properties.php:12 templates/archive-properties.php:12
+msgid "Properties"
+msgstr ""
+"Proprietăți\n"
+
+#: inc/class-native-theme.php:583
+msgid "Property Sidebar"
+msgstr "Bara laterală a proprietății"
+
+#: inc/class-contact-form.php:104
+msgid "Questions"
+msgstr ""
+"Întrebări\n"
+
+#: inc/admin/class-options-page.php:147 inc/widgets/class-banners-widget.php:54
+msgid "Remove Image"
+msgstr ""
+"Ștergeți imaginea\n"
+
+#: comments.php:60
+msgid "Reply"
+msgstr ""
+"Răspuns\n"
+
+#: inc/class-options-container.php:156
+msgid "Required"
+msgstr ""
+"Necesar\n"
+
+#: estatik/shortcodes/reset.php:6
+msgid "Restore password"
+msgstr ""
+"Restaurați parola\n"
+
+#: inc/class-options-container.php:150
+msgid "Right Sidebar"
+msgstr "Bara laterală dreaptă"
+
+#: inc/admin/templates/options.php:12
+msgid "Save"
+msgstr ""
+"Salva\n"
+
+#: searchform.php:4
+msgid "Search"
+msgstr ""
+"Căutare\n"
+
+#: inc/admin/templates/general-tab.php:78
+msgid "Search block background image"
+msgstr ""
+"Imaginea de fundal a blocului de căutare\n"
+
+#: inc/class-native-theme.php:386
+msgid "Search News"
+msgstr ""
+"Caută știri\n"
+
+#: inc/widgets/class-native-widget.php:51
+msgid "Search Page"
+msgstr ""
+"Pagina de căutare\n"
+
+#: templates/search-properties.php:3
+msgid "Search properties"
+msgstr ""
+"Proprietăți de căutare\n"
+
+#: inc/class-native-theme.php:793
+#, php-format
+msgid "Search Results for \"%s\" Query"
+msgstr ""
+"Rezultate căutare pentru interogare \"%s\"\n"
+
+#: search.php:23
+#, php-format
+msgid "Search Results for: %s"
+msgstr "Rezultatele căutării pentru: %s"
+
+#: inc/admin/class-options-page.php:145 inc/widgets/class-banners-widget.php:52
+#: inc/widgets/forms/es-native-banners-widget-form.php:20
+msgid "Select Image"
+msgstr ""
+"Selectați Imagine\n"
+
+#: inc/admin/templates/general-tab.php:27
+#: inc/admin/templates/general-tab.php:58
+#: inc/admin/templates/general-tab.php:82 inc/admin/templates/404.php:6
+msgid "Select image"
+msgstr ""
+"Selectați imaginea\n"
+
+#: inc/widgets/forms/es-nav-menu-widget-form.php:36
+msgid "Select Menu:"
+msgstr ""
+"Selectați Meniu:\n"
+
+#: inc/widgets/forms/es-native-page-teaser-widget-form.php:21
+msgid "Select page"
+msgstr ""
+"Selectați pagina\n"
+
+#: inc/widgets/class-native-widget.php:96
+msgid "Select pages"
+msgstr ""
+"Selectați pagini\n"
+
+#: inc/widgets/forms/es-native-hot-property-widget-form.php:21
+msgid "Select property"
+msgstr ""
+"Selectați proprietatea\n"
+
+#: templates/contact-form.php:52
+msgid "Send"
+msgstr ""
+"Trimite\n"
+
+#: inc/admin/templates/general-tab.php:119
+msgid "Show breadcrumbs"
+msgstr "Arată pesmet"
+
+#: inc/widgets/forms/es-native-latest-news-widget-form.php:41
+msgid "Show more button"
+msgstr ""
+"Afișează mai mult buton\n"
+
+#: inc/widgets/class-native-widget.php:125
+msgid "Show on checked pages"
+msgstr ""
+"Afișați pe paginile verificate\n"
+
+#: inc/widgets/class-native-widget.php:81
+msgid "Show on pages:"
+msgstr ""
+"Afișați pe pagini:\n"
+
+#: inc/widgets/class-native-widget.php:47
+msgid "Single Page"
+msgstr ""
+"Pagina singura\n"
+
+#: inc/admin/templates/general-tab.php:124
+msgid "Single Property Layout"
+msgstr ""
+"Dispunerea unei singure proprietăți\n"
+
+#: inc/widgets/class-native-widget.php:48
+msgid "Single Property Page"
+msgstr ""
+"Pagina de proprietate unică\n"
+
+#: inc/admin/class-options-page.php:74
+msgid "Social Sharing"
+msgstr ""
+"Partajare socială\n"
+
+#: search.php:41 archive.php:41
+msgid "Sorry, nothing found"
+msgstr ""
+"Ne pare rău, nu sa găsit nimic\n"
+
+#: inc/admin/templates/contact.php:10
+msgid "Tel Number"
+msgstr ""
+"Număr de tel\n"
+
+#: templates/contact-form.php:3
+msgid "Terms of Use"
+msgstr "Termeni de utilizare"
+
+#: inc/admin/templates/general-tab.php:100
+msgid "Terms of Use page"
+msgstr ""
+"Pagina cu Termenii de utilizare\n"
+
+#: inc/class-contact-form.php:111
+msgid "Thank you for contacting us!"
+msgstr ""
+"Mulțumim că ne-ai contactat!\n"
+
+#: inc/admin/class-options-page.php:48
+msgid "Theme Native"
+msgstr ""
+"Tema Nativă\n"
+
+#: inc/admin/templates/options.php:6
+msgid "Theme Options"
+msgstr ""
+"Opțiuni temă\n"
+
+#: inc/widgets/forms/es-nav-menu-widget-form.php:32
+msgid "Title:"
+msgstr ""
+"Titlu:\n"
+
+#: inc/class-native-theme.php:619
+msgid "Top Banner Sidebar"
+msgstr ""
+"Bara laterală de sus a bannerului\n"
+
+#: inc/class-native-theme.php:601
+msgid "Top Sidebar"
+msgstr ""
+"Bara laterală de sus\n"
+
+#: inc/class-native-theme.php:610
+msgid "Top Wide Sidebar"
+msgstr ""
+"Bara laterală de sus\n"
+
+#: templates/subscriptions-table.php:42
+msgid "Total"
+msgstr ""
+"Total\n"
+
+#: inc/admin/templates/social-sharing.php:2
+msgid "Twitter link"
+msgstr ""
+"Link Twitter\n"
+
+#: inc/admin/templates/contact.php:2
+msgid "User notification text"
+msgstr ""
+"Textul notificării utilizatorului\n"
+
+#: estatik/shortcodes/login.php:15
+msgid "Username"
+msgstr "Nume de utilizator"
+
+#: estatik/shortcodes/reset.php:19
+msgid "Username or email address"
+msgstr ""
+"Nume de utilizator sau Adresa de email\n"
+
+#: inc/class-native-theme.php:678
+msgid "Ver"
+msgstr ""
+"Ver\n"
+
+#: inc/widgets/forms/es-native-latest-news-widget-form.php:51
+msgid "View all link:"
+msgstr ""
+"Vezi tot linkul:\n"
+
+#: inc/class-native-theme.php:385
+msgid "View News"
+msgstr ""
+"Vezi Știri\n"
+
+#: templates/content-archive.php:21
+msgid "View on map"
+msgstr ""
+"Vizualizare pe hartă\n"
+
+#: inc/widgets/forms/es-native-hot-property-widget-form.php:16
+#: inc/widgets/forms/es-properties-widget-form.php:18
+#: inc/widgets/forms/es-native-page-teaser-widget-form.php:16
+#: inc/widgets/forms/es-native-recent-posts-widget-form.php:18
+#: inc/widgets/forms/es-native-latest-news-widget-form.php:20
+msgid "Widget Title:"
+msgstr "Titlul widgetului:"
+
+#: inc/admin/class-options-page.php:189
+#: inc/widgets/forms/es-native-latest-news-widget-form.php:42
+msgid "Yes"
+msgstr ""
+"Da\n"
+
+#: estatik/shortcodes/login.php:53 estatik/shortcodes/reset.php:44
+msgid "You are already logged in."
+msgstr ""
+"Sunteți deja conectat.\n"
+
+#: templates/contact-form.php:21
+msgid "Your email"
+msgstr ""
+"Email-ul tau\n"
+
+#: templates/contact-form.php:17
+msgid "Your name"
+msgstr ""
+"Numele dumneavoastră\n"
+
+#: templates/contact-form.php:25
+msgid "Your phone"
+msgstr ""
+"Telefonul tau\n"
+
+#: templates/contact-form.php:29
+msgid "Your Questions"
+msgstr ""
+"Intrebarile tale\n"
+
+#: inc/admin/templates/social-sharing.php:7
+msgid "Youtube link"
+msgstr "Link YouTube"
