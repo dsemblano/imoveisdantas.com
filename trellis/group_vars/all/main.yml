@@ -6,6 +6,8 @@ composer_keep_updated: true
 php_version: "8.0"
 ntp_timezone: Etc/UTC
 ntp_manage_config: true
+letsencrypt_contact_emails:
+  - dsemblano@gmail.com
 www_root: /srv/www
 
 # Values of raw_vars will be wrapped in `{% raw %}` to avoid templating problems if values include `{%` and `{{`.
