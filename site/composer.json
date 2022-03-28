@@ -43,6 +43,12 @@
     "wpackagist-plugin/estatik":">=3.11.11",
     "wpackagist-plugin/loco-translate":">=2.3.3",
     "wpackagist-plugin/automatic-translator-addon-for-loco-translate":">=2.1.1",
+    "wpackagist-plugin/webp-converter-for-media":">=4.2.4",
+    "wpackagist-plugin/wp-mail-smtp":">=1.8.1",
+    "wpackagist-plugin/seo-by-rank-math":">=1.0.76.1",
+    "wpackagist-plugin/wps-hide-login":">=1.5.4.2",
+    "wpackagist-plugin/wp-google-maps":">=8.1.18",
+    "wpackagist-plugin/wp-enable-webp":">=1.0",
     "roots/wp-password-bcrypt": "1.1.0"
   },
   "require-dev": {
