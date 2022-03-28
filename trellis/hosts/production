@@ -2,7 +2,7 @@
 # List each machine only once per [group], even if it will host multiple sites.
 
 [production]
-2604:a880:800:10::90c:1001
+165.227.184.33
 
 [web]
-2604:a880:800:10::90c:1001
+165.227.184.33
