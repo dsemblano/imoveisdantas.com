@@ -18,7 +18,7 @@ get_header(); ?>
 			<div><?php echo apply_filters( 'the_content', stripslashes( $es_native_options->not_found_text ) ); ?>
 				<?php if ( !empty( $es_native_options->not_found_button_label ) ):?>
 					<a class="theme-btn"
-					   href="<?php echo site_url(); ?>"><?php echo $es_native_options->not_found_button_label; ?></a>
+					   href="<?php echo home_url(); ?>"><?php echo $es_native_options->not_found_button_label; ?></a>
 				<?php endif;?>
 			</div>
 		</div>
