@@ -11,7 +11,6 @@ letsencrypt_contact_emails:
 www_root: /srv/www
 php_extensions_custom:
   php-gd: "{{ apt_package_state }}"
-  php-imagick: "{{ apt_package_state }}"
 
 # Values of raw_vars will be wrapped in `{% raw %}` to avoid templating problems if values include `{%` and `{{`.
 # Will recurse dicts/lists. `*` is wildcard for one or more dict keys, list indices, or strings. Example:
