@@ -37,10 +37,9 @@
     "oscarotero/env": "^2.1",
     "roots/bedrock-autoloader": "^1.0",
     "roots/bedrock-disallow-indexing": "^2.0",
-    "roots/wordpress": "5.9.2",
+    "roots/wordpress": ">=5.9.2",
     "roots/wp-config": "1.0.0",
     "wpackagist-plugin/fakerpress":">=0.5.3",
-    "wpackagist-plugin/estatik":">=3.11.11",
     "wpackagist-plugin/loco-translate":">=2.3.3",
     "wpackagist-plugin/automatic-translator-addon-for-loco-translate":">=2.1.1",
     "wpackagist-plugin/webp-converter-for-media":">=4.2.4",
@@ -49,6 +48,7 @@
     "wpackagist-plugin/wps-hide-login":">=1.5.4.2",
     "wpackagist-plugin/wp-google-maps":">=8.1.18",
     "wpackagist-plugin/wp-enable-webp":">=1.0",
+    "wpackagist-plugin/essential-real-estate":">=3.8.8",
     "roots/wp-password-bcrypt": "1.1.0"
   },
   "require-dev": {
