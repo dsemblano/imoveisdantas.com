@@ -49,6 +49,7 @@
     "wpackagist-plugin/wp-google-maps":">=8.1.18",
     "wpackagist-plugin/wp-enable-webp":">=1.0",
     "wpackagist-plugin/essential-real-estate":">=3.8.8",
+    "wpackagist-plugin/disable-gutenberg":">=2.6",
     "roots/wp-password-bcrypt": "1.1.0"
   },
   "require-dev": {
